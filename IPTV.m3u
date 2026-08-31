@@ -368,7 +368,11 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Home_Shopping
 #EXTINF:-1 tvg-id="onmusic" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/5p5nN1r.png",VTVcab 15 | ON Music
 https://freem3u.xyz/api/live/play.m3u8?vid=185
 #EXTINF:-1 tvg-id="onfootball" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/mQlQ9dX.png",VTVcab 16 | ON Football
-https://freem3u.xyz/api/live/play.m3u8?vid=174
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/BONGDA_HD/manifest.mpd
 #EXTINF:-1 tvg-id="ontrending" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/2KKDAK5.png",VTVcab 17 | ON Trending TV
 https://freem3u.xyz/api/live/play.m3u8?vid=186
 #EXTINF:-1 tvg-id="onsportsnews" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/7H5TgAQ.png",VTVcab 18 | ON Sports News
