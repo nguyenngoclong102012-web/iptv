@@ -394,8 +394,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=179
 #EXTINF:-1 tvg-id="onlife" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/2zRKDrr.png",VTVcab 22 | ON Life
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 tvg-id="ongolf" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/A1vT0sq.png",VTVcab 23 | ON Golf
-https://vmttv.dpdns.org/tv360/?id=vtvcab-23-golf-channel
-#EXTINF:-1 tvg-id="ongolf" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/A1vT0sq.png",VTVcab 23 | ON Golf (2)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
