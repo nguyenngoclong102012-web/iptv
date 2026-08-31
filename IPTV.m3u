@@ -85,21 +85,27 @@ https://vmttv.dpdns.org/tv360/?id=tv360-15
 #-------------------🔴| FPT Play - Sự kiện trực tiếp-------------------#
 #EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 1
 https://vips-livecdn.fptplay.net/live/media/event-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 1 4K (4K)
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Event 1 4K (4K)
 https://vips-livecdn.fptplay.net/live/media/event-01-4k/dash_hvc/index.mpd
-#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 1 4K (1080p)
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Event 1 4K (1080p)
 https://vips-livecdn.fptplay.net/live/media/event-01-4k/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 2
 https://vips-livecdn.fptplay.net/live/media/event-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 2 4K (1080p)
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Event 2 4K (4K)
+https://vips-livecdn.fptplay.net/live/media/event-02-4k/dash_hvc/index.mpd
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Event 2 4K (1080p)
 https://vips-livecdn.fptplay.net/live/media/event-02-4k/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 3
 https://vips-livecdn.fptplay.net/live/media/event-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 3 4K (1080p)
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Event 3 4K (4K)
+https://vips-livecdn.fptplay.net/live/media/event-03-4k/dash_hvc/index.mpd
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Event 3 4K (1080p)
 https://vips-livecdn.fptplay.net/live/media/event-03-4k/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 4
 https://vips-livecdn.fptplay.net/live/media/event-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 4 4K (1080p)
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Event 4 4K (4K)
+https://vips-livecdn.fptplay.net/live/media/event-04-4k/dash_hvc/index.mpd
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Event 4 4K (1080p)
 https://vips-livecdn.fptplay.net/live/media/event-04-4k/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 5
 https://vips-livecdn.fptplay.net/live/media/event-05/hls_avc_v6/index.m3u8
@@ -119,19 +125,23 @@ https://vips-livecdn.fptplay.net/live/media/event-11/hls_avc_v6/index.m3u8
 https://vips-livecdn.fptplay.net/live/media/event-12/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 1
 https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 1 4K (4K)
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Sự kiện 1 4K (4K)
 https://vips-livecdn.fptplay.net/live/media/su-kien-01-4k/dash_hvc/index.mpd
-#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 1 4K (1080p)
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Sự kiện 1 4K (1080p)
 https://vips-livecdn.fptplay.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 2
 https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 3
 https://vips-livecdn.fptplay.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 3 4K (1080p)
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Sự kiện 3 4K (4K)
+https://vips-livecdn.fptplay.net/live/media/su-kien-03-4k/dash_hvc/index.mpd
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Sự kiện 3 4K (1080p)
 https://vips-livecdn.fptplay.net/live/media/su-kien-03-4k/4k_hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 4
 https://vips-livecdn.fptplay.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 4 4K (1080p)
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Sự kiện 4 4K (4K)
+https://vips-livecdn.fptplay.net/live/media/su-kien-04-4k/dash_hvc/index.mpd
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Sự kiện 4 4K (1080p)
 https://vips-livecdn.fptplay.net/live/media/su-kien-04-4k/4k_hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 5
 https://vips-livecdn.fptplay.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
