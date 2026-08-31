@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://epg.io.vn/epg.xml"
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg_US.xml"
 #-------------------🔴| TV360 - Sự kiện trực tiếp-------------------#
 #EXTINF:-1 tvg-id="tv360plus1" group-title="🔴| TV360 - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/mb3b2Ic.png",TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
