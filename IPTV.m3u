@@ -83,41 +83,43 @@ https://vmttv.dpdns.org/tv360/?id=tv360-14
 https://vmttv.dpdns.org/tv360/?id=tv360-15
 #-------------------🎞️⚽| TV360 - Phim & Thể thao-------------------#
 #EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/fY7eGGK.png",360 Phim Việt
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=phim-viet
 #EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/khnkRIV.png",360 Phim Âu Mỹ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=phim-au-my
 #EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/zGzL2WA.png",360 Hoạt hình
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=hoat-hinh
 #EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/wkr3k2X.png",360 Phim Hoa Ngữ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-hoa-ngu
 #EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/ULuQkH3.png",360 Hành Động Châu Á
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-hanh-dong-chau-a
 #EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/ZFPrea3.png",360 K–Drama
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-k-drama
 #EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/KJnvWLE.png",360 Hài – Tình Cảm
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-hai-tinh-cam
 #EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/K5hitA0.png",360 Phim Kinh Điển
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-phim-kinh-dien
 #EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/aYvephd.png",360 Anime
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-anime
 #EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/IbU9pFm.png",360 Thiếu Nhi
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-thieu-nhi
 #EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/TelBLNX.png",360 Phim 4K
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-phim-4k
 #EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/dVJJj0B.png",360 C1 Châu Âu
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-c1-chau-au
+#EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/nW17fKv.png",360 C2 Châu Âu
+https://vmttv.dpdns.org/tv360/?id=360-c2-chau-au
+#EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/TqL611B.png",360 C3 Châu Âu
+https://vmttv.dpdns.org/tv360/?id=360-c3-chau-au
+#EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/iiYYPWb.png",360 Thể thao Châu Á
+https://vmttv.dpdns.org/tv360/?id=360-the-thao-chau-a
+#EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/HdczxSp.png",360 Công thức 1
+https://vmttv.dpdns.org/tv360/?id=360-cong-thuc-1
+#EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/2pItIYf.png",360 Bundesliga
+https://vmttv.dpdns.org/tv360/?id=360-bundesliga
+#EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/sAFTTr8.png",360 Golf
+https://vmttv.dpdns.org/tv360/?id=360-golf
+#EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/KIXdyAD.png",360 Tennis
+https://vmttv.dpdns.org/tv360/?id=360-tennis
 #-------------------🔴| FPT Play - Sự kiện trực tiếp-------------------#
 #EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 1
 https://vips-livecdn.fptplay.net/live/media/event-01/hls_avc_v6/index.m3u8
