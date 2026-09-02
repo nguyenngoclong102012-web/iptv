@@ -637,7 +637,7 @@ https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
-#EXTINF:-1 tvg-id="afnhd" group-title="🌏 | Quốc Tế" tvg-logo="",Asian Food Network
+#EXTINF:-1 tvg-id="afnhd" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/f75LeMa.png",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/v33OYIe.png",Cinemax
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -784,7 +784,7 @@ https://s129135.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 #EXTINF:-1 tvg-id="hgtv" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/Ng9X9aG.png",HGTV
-
+https://freem3u.xyz/api/live/play.m3u8?vid=99
 #-------------------⚽| Thể thao Quốc Tế-------------------#
 #EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/wC1Itvj.png",CCTV Billiards (Trung Quốc)
 http://107.150.60.122/live/ystq.m3u8
