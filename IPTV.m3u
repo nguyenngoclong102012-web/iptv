@@ -400,31 +400,31 @@ https://freem3u.xyz/api/live/play.m3u8?vid=188
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livesctvng.vtvprime.vn/Live_DASHDRM1/THETHAO_GOLF_HD/manifest.mpd
 #-------------------🇻🇳 | VTVcab - InTheBOX.TV-------------------#
-#EXTINF:-1 tvg-id="boxmovie1" group-title🇻🇳 | VTVcab - InTheBOX.TV" tvg-logo="https://i.imgur.com/SJHtg7O.png",Box Movie 1
+#EXTINF:-1 tvg-id="boxmovie1" group-title🇻🇳 | VTVcab - InTheBOX.TV" tvg-logo="https://i.imgur.com/SJHtg7O.png",VTVcab | Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/BM1/manifest.mpd
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🇻🇳 | VTVcab - InTheBOX.TV" tvg-logo="https://i.imgur.com/4jl004r.png",Hollywood Classics
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🇻🇳 | VTVcab - InTheBOX.TV" tvg-logo="https://i.imgur.com/4jl004r.png",VTVcab | Hollywood Classics
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/HC/manifest.mpd
-#EXTINF:-1 tvg-id="boxhits" group-title="🇻🇳 | VTVcab - InTheBOX.TV" tvg-logo="https://i.imgur.com/eSUh21U.png",Box Hits
+#EXTINF:-1 tvg-id="boxhits" group-title="🇻🇳 | VTVcab - InTheBOX.TV" tvg-logo="https://i.imgur.com/eSUh21U.png",VTVcab | Box Hits
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
-#EXTINF:-1 tvg-id="musicbox" group-title="🇻🇳 | VTVcab - InTheBOX.TV" tvg-logo="https://i.imgur.com/CQpacfQ.png",Music Box
+#EXTINF:-1 tvg-id="musicbox" group-title="🇻🇳 | VTVcab - InTheBOX.TV" tvg-logo="https://i.imgur.com/CQpacfQ.png",VTVcab | Music Box
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae
 https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd
-#EXTINF:-1 tvg-id="woman" group-title="🇻🇳 | VTVcab - InTheBOX.TV" tvg-logo="https://i.imgur.com/KUF9Pgr.png",Woman
+#EXTINF:-1 tvg-id="woman" group-title="🇻🇳 | VTVcab - InTheBOX.TV" tvg-logo="https://i.imgur.com/KUF9Pgr.png",VTVcab | Woman
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
