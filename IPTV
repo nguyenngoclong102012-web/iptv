@@ -1,0 +1,842 @@
+#EXTM3U url-tvg="https://epg.io.vn/epg.xml"
+#-------------------🔴| TV360 - Sự kiện trực tiếp-------------------#
+#EXTINF:-1 tvg-id="tv360plus1" group-title="🔴| TV360 - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/mb3b2Ic.png",TV360+1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47404f622db3536c867b2545581aadb4:9fbdc12cfe74564fd4329baa6a6d1968
+https://vmttv.dpdns.org/tv360/?id=tv360-1
+#EXTINF:-1 tvg-id="tv360plus2" group-title="🔴| TV360 - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/K8Dgw0I.png",TV360+2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c24f672f7715433a83953e74ae564b1:10a63f9f2ccd81dfc4a05263c2fd1575
+https://vmttv.dpdns.org/tv360/?id=tv360-2
+#EXTINF:-1 tvg-id="tv360plus3" group-title="🔴| TV360 - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/LstOwog.png",TV360+3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8405a15e96b35497bde131a29e7fb67e:adb30d908915cf14760880240961a5ed
+https://vmttv.dpdns.org/tv360/?id=tv360-3
+#EXTINF:-1 tvg-id="tv360plus4" group-title="🔴| TV360 - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/XPKmb0w.png",TV360+4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70d033252d025d719ba70a37acc0f5c8:6ca465d8b3018f1604da6d43d3395a6d
+https://vmttv.dpdns.org/tv360/?id=tv360-4
+#EXTINF:-1 tvg-id="tv360plus5" group-title="🔴| TV360 - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/oFmqZlO.png",TV360+5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad06f4610c564dc78f5955b71fa85fe8:0ebfe0ecc37ddb67b2bc9580e1b8fbed
+https://vmttv.dpdns.org/tv360/?id=tv360-5
+#EXTINF:-1 tvg-id="tv360plus6" group-title="🔴| TV360 - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/A0jbXZw.png",TV360+6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b0f9e1892864641aa17f02b2e7b0b2d:6c06f96a6296d05442466d5b09e58192
+https://vmttv.dpdns.org/tv360/?id=tv360-6
+#EXTINF:-1 tvg-id="tv360plus7" group-title="🔴| TV360 - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/RubSSdn.png",TV360+7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=072f0a0d4eda40cbb04dfadf521a2b9f:2fb11373b36e018573d3b07132df050e
+https://vmttv.dpdns.org/tv360/?id=tv360-7
+#EXTINF:-1 tvg-id="tv360plus8" group-title="🔴| TV360 - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/DUb3aEA.png",TV360+8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a08bd3a8c565cdfa4e01a0273915f40:d956d96ac3799d42441f582ec12f10df
+https://vmttv.dpdns.org/tv360/?id=tv360-8
+#EXTINF:-1 tvg-id="tv360plus9" group-title="🔴| TV360 - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/q3T16ZW.png",TV360+9
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=tv360-9
+#EXTINF:-1 tvg-id="tv360plus10" group-title="🔴| TV360 - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/eQAa2Je.png",TV360+10
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=tv360-10
+#EXTINF:-1 tvg-id="tv360plus11" group-title="🔴| TV360 - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/3jW59Sf.png",TV360+11
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=tv360-11
+#EXTINF:-1 tvg-id="tv360plus12" group-title="🔴| TV360 - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/peAVmgr.png",TV360+12
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=29b3e7c5de895bfa8850f16dad16e378:72a9e1be1d94ad66207f1ac61bcf7681
+https://vmttv.dpdns.org/tv360/?id=tv360-12
+#EXTINF:-1 tvg-id="tv360plus13" group-title="🔴| TV360 - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/emRQjII.png",TV360+13
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"hW8pGvNaXbe30MlEsymTuQ","k":"qjVHVH8IT-TJ6lIG7_treA"}],"type":"temporary"}
+https://vmttv.dpdns.org/tv360/?id=tv360-13
+#EXTINF:-1 tvg-id="tv360plus14" group-title="🔴| TV360 - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/wijXqGx.png",TV360+14
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e57b008cedba5d12a192e66152bb61ca:a4b58d543b1c042f8b399f268040b623
+https://vmttv.dpdns.org/tv360/?id=tv360-14
+#EXTINF:-1 tvg-id="tv360plus15" group-title="🔴| TV360 - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/x2bfq4E.png",TV360+15
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c305b22dfd6d55e3998ab279cc98e0d3:aa58646c0ecd7b78c4082a345afa4b5f
+https://vmttv.dpdns.org/tv360/?id=tv360-15
+#-------------------🎞️⚽| TV360 - Phim & Thể thao-------------------#
+#EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/fY7eGGK.png",360 Phim Việt
+https://vmttv.dpdns.org/tv360/?id=phim-viet
+#EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/khnkRIV.png",360 Phim Âu Mỹ
+https://vmttv.dpdns.org/tv360/?id=phim-au-my
+#EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/zGzL2WA.png",360 Hoạt hình
+https://vmttv.dpdns.org/tv360/?id=hoat-hinh
+#EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/wkr3k2X.png",360 Phim Hoa Ngữ
+https://vmttv.dpdns.org/tv360/?id=360-hoa-ngu
+#EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/ULuQkH3.png",360 Hành Động Châu Á
+https://vmttv.dpdns.org/tv360/?id=360-hanh-dong-chau-a
+#EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/ZFPrea3.png",360 K–Drama
+https://vmttv.dpdns.org/tv360/?id=360-k-drama
+#EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/KJnvWLE.png",360 Hài – Tình Cảm
+https://vmttv.dpdns.org/tv360/?id=360-hai-tinh-cam
+#EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/K5hitA0.png",360 Phim Kinh Điển
+https://vmttv.dpdns.org/tv360/?id=360-phim-kinh-dien
+#EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/aYvephd.png",360 Anime
+https://vmttv.dpdns.org/tv360/?id=360-anime
+#EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/IbU9pFm.png",360 Thiếu Nhi
+https://vmttv.dpdns.org/tv360/?id=360-thieu-nhi
+#EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/TelBLNX.png",360 Phim 4K
+https://vmttv.dpdns.org/tv360/?id=360-phim-4k
+#EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/dVJJj0B.png",360 C1 Châu Âu
+https://vmttv.dpdns.org/tv360/?id=360-c1-chau-au
+#EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/nW17fKv.png",360 C2 Châu Âu
+https://vmttv.dpdns.org/tv360/?id=360-c2-chau-au
+#EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/TqL611B.png",360 C3 Châu Âu
+https://vmttv.dpdns.org/tv360/?id=360-c3-chau-au
+#EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/iiYYPWb.png",360 Thể thao Châu Á
+https://vmttv.dpdns.org/tv360/?id=360-the-thao-chau-a
+#EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/HdczxSp.png",360 Công thức 1
+https://vmttv.dpdns.org/tv360/?id=360-cong-thuc-1
+#EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/2pItIYf.png",360 Bundesliga
+https://vmttv.dpdns.org/tv360/?id=360-bundesliga
+#EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/sAFTTr8.png",360 Golf
+https://vmttv.dpdns.org/tv360/?id=360-golf
+#EXTINF:-1 group-title="🎞️⚽| TV360 - Phim & Thể thao" tvg-logo="https://i.imgur.com/KIXdyAD.png",360 Tennis
+https://vmttv.dpdns.org/tv360/?id=360-tennis
+#-------------------🔴| FPT Play - Sự kiện trực tiếp-------------------#
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 1
+https://vips-livecdn.fptplay.net/live/media/event-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Event 1 4K (4K)
+https://vips-livecdn.fptplay.net/live/media/event-01-4k/dash_hvc/index.mpd
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Event 1 4K (1080p)
+https://vips-livecdn.fptplay.net/live/media/event-01-4k/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 2
+https://vips-livecdn.fptplay.net/live/media/event-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Event 2 4K (4K)
+https://vips-livecdn.fptplay.net/live/media/event-02-4k/dash_hvc/index.mpd
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Event 2 4K (1080p)
+https://vips-livecdn.fptplay.net/live/media/event-02-4k/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 3
+https://vips-livecdn.fptplay.net/live/media/event-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Event 3 4K (4K)
+https://vips-livecdn.fptplay.net/live/media/event-03-4k/dash_hvc/index.mpd
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Event 3 4K (1080p)
+https://vips-livecdn.fptplay.net/live/media/event-03-4k/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 4
+https://vips-livecdn.fptplay.net/live/media/event-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Event 4 4K (4K)
+https://vips-livecdn.fptplay.net/live/media/event-04-4k/dash_hvc/index.mpd
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Event 4 4K (1080p)
+https://vips-livecdn.fptplay.net/live/media/event-04-4k/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 5
+https://vips-livecdn.fptplay.net/live/media/event-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 6
+https://vips-livecdn.fptplay.net/live/media/event-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 7
+https://vips-livecdn.fptplay.net/live/media/event-07/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 8
+https://vips-livecdn.fptplay.net/live/media/event-08/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 9
+https://vips-livecdn.fptplay.net/live/media/event-09/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 10
+https://vips-livecdn.fptplay.net/live/media/event-10/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 11
+https://vips-livecdn.fptplay.net/live/media/event-11/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 12
+https://vips-livecdn.fptplay.net/live/media/event-12/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 1
+https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Sự kiện 1 4K (4K)
+https://vips-livecdn.fptplay.net/live/media/su-kien-01-4k/dash_hvc/index.mpd
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Sự kiện 1 4K (1080p)
+https://vips-livecdn.fptplay.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 2
+https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 3
+https://vips-livecdn.fptplay.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Sự kiện 3 4K (4K)
+https://vips-livecdn.fptplay.net/live/media/su-kien-03-4k/dash_hvc/index.mpd
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Sự kiện 3 4K (1080p)
+https://vips-livecdn.fptplay.net/live/media/su-kien-03-4k/4k_hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 4
+https://vips-livecdn.fptplay.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Sự kiện 4 4K (4K)
+https://vips-livecdn.fptplay.net/live/media/su-kien-04-4k/dash_hvc/index.mpd
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Sự kiện 4 4K (1080p)
+https://vips-livecdn.fptplay.net/live/media/su-kien-04-4k/4k_hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 5
+https://vips-livecdn.fptplay.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 6
+https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 7
+https://vips-livecdn.fptplay.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 8
+https://vips-livecdn.fptplay.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 9
+https://vips-livecdn.fptplay.net/live/media/su-kien-09/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 10
+https://vips-livecdn.fptplay.net/live/media/su-kien-10/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 11
+https://vips-livecdn.fptplay.net/live/media/su-kien-11/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 12
+https://vips-livecdn.fptplay.net/live/media/su-kien-12/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 13
+https://vips-livecdn.fptplay.net/live/media/su-kien-13/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 14
+https://vips-livecdn.fptplay.net/live/media/su-kien-14/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 15
+https://vips-livecdn.fptplay.net/live/media/su-kien-15/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 16
+https://vips-livecdn.fptplay.net/live/media/su-kien-16/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 17
+https://vips-livecdn.fptplay.net/live/media/su-kien-17/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 82
+https://vips-livecdn.fptplay.net/live/media/su-kien-82/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 83
+https://vips-livecdn.fptplay.net/live/media/su-kien-83/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 84
+https://vips-livecdn.fptplay.net/live/media/su-kien-84/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 85
+https://vips-livecdn.fptplay.net/live/media/su-kien-85/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 86
+https://vips-livecdn.fptplay.net/live/media/su-kien-86/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 87
+https://vips-livecdn.fptplay.net/live/media/su-kien-87/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 88
+https://vips-livecdn.fptplay.net/live/media/su-kien-88/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 89
+https://vips-livecdn.fptplay.net/live/media/su-kien-89/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 90
+https://vips-livecdn.fptplay.net/live/media/su-kien-90/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 91
+https://vips-livecdn.fptplay.net/live/media/su-kien-91/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 92
+https://vips-livecdn.fptplay.net/live/media/su-kien-92/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 93
+https://vips-livecdn.fptplay.net/live/media/su-kien-93/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 94
+https://vips-livecdn.fptplay.net/live/media/su-kien-94/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴| FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 95
+https://vips-livecdn.fptplay.net/live/media/su-kien-95/hls_avc_v6/index.m3u8
+#-------------------🔴| VTVprime - Sự kiện trực tiếp-------------------#
+#EXTINF:-1 group-title="🔴| VTVprime - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/jzJsEJ7.png",VTVprime 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT1/manifest.mpd
+#EXTINF:-1 group-title="🔴| VTVprime - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/jzJsEJ7.png",VTVprime 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT2/manifest.mpd
+#EXTINF:-1 group-title="🔴| VTVprime - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/jzJsEJ7.png",VTVprime 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT3/manifest.mpd
+#EXTINF:-1 group-title="🔴| VTVprime - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/jzJsEJ7.png",VTVprime 4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT4/manifest.mpd
+#EXTINF:-1 group-title="🔴| VTVprime - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/jzJsEJ7.png",VTVprime 5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT5/manifest.mpd
+#EXTINF:-1 group-title="🔴| VTVprime - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/jzJsEJ7.png",VTVprime 6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT6/manifest.mpd
+#EXTINF:-1 group-title="🔴| VTVprime - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/jzJsEJ7.png",VTVprime 7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT7/manifest.mpd
+#EXTINF:-1 group-title="🔴| VTVprime - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/jzJsEJ7.png",VTVprime 8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT8/manifest.mpd
+#EXTINF:-1 group-title="🔴| VTVprime - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/jzJsEJ7.png",VTVprime 9
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT9/manifest.mpd
+#EXTINF:-1 group-title="🔴| VTVprime - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/jzJsEJ7.png",VTVprime 10
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT10/manifest.mpd
+#EXTINF:-1 group-title="🔴| VTVprime - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/jzJsEJ7.png",VTVprime 11
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
+https://livevliatmcdw.seenow.vn/live/data8/SKSS1/Live_DASHDRM/SKSS1.mpd
+#EXTINF:-1 group-title="🔴| VTVprime - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/jzJsEJ7.png",VTVprime 12
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
+https://livevliatmcdw.seenow.vn/live/data8/SKSS2/Live_DASHDRM/SKSS2.mpd
+#-------------------🇻🇳 | VTV-------------------#
+#EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/eSqvlrp.png",VTV1 HD
+https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/GiyLCvm.png",VTV2 HD
+https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/vtv2.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/cwnSuFg.png",VTV3 HD
+https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/xE6ujkB.png",VTV4 HD
+https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4.m3u8
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/DNRsgaQ.png",Vietnam Today
+https://live.fptplay53.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/wxmmBNr.png",VTV5 HD
+https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/RfDPwcI.png",VTV5 Tây Nam Bộ HD
+https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/qHwIQTI.png",VTV5 Tây Nguyên HD 
+https://live.fptplay53.net/live/media/vtv5tn/live-hls-avc/vtv5tn.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/DwMeSZn.png",VTV6 HD
+https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/x3AM7uS.png",VTV7 HD
+https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/vtv7.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/ZvKek9c.png",VTV8 HD
+https://live.fptplay53.net/live/media/vtv8/live-hls-avc/vtv8.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/Ale7isr.png",VTV9 HD
+https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/vtv9.m3u8
+#EXTINF:-1 tvg-id="vtv10hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/nu2Q9ix.png",VTV10 HD
+https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/vtv10.m3u8
+#-------------------🇻🇳 | Thiết yếu-------------------#
+#EXTINF:-1 tvg-id="antvhd" group-title="🇻🇳 | Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD
+https://vips-livecdn.fptplay.net/live/media/antv/live-hls-avc/antv.m3u8
+#EXTINF:-1 tvg-id="qpvnhd" group-title="🇻🇳 | Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN HD
+https://vips-livecdn.fptplay.net/live/media/quocphongvn/live-hls-avc/quocphongvn.m3u8
+#-------------------🇻🇳 | VTVcab-------------------#
+#EXTINF:-1 tvg-id="onviegiaitri" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/n4uKJMc.png",VTVcab 1 | ON Vie Giải Trí
+https://freem3u.xyz/api/live/play.m3u8?vid=180
+#EXTINF:-1 tvg-id="onphimviet" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/1iF6T3g.png",VTVcab 2 | ON Phim Việt
+https://vmttv.dpdns.org/tv360/?id=vtvcab-2-phim-viet-hd
+#EXTINF:-1 tvg-id="onsports" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/Z06Ja5O.png",VTVcab 3 | ON Sports
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/THETHAO_HD/manifest.mpd
+#EXTINF:-1 tvg-id="onmovies" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/saYFEJY.png",VTVcab 4 | ON Movies – YouTV
+https://freem3u.xyz/api/live/play.m3u8?vid=181
+#EXTINF:-1 tvg-id="onechannel" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/Rf2YL1g.png",VTVcab 5 | ON E Channel
+https://freem3u.xyz/api/live/play.m3u8?vid=182
+#EXTINF:-1 tvg-id="onsportsplus" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/7yrfGhr.png",VTVcab 6 | ON Sports+
+https://freem3u.xyz/api/live/play.m3u8?vid=183
+#EXTINF:-1 tvg-id="ono2tv" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/bimsakk.png",VTVcab 7 | ON O2TV
+https://freem3u.xyz/api/live/play.m3u8?vid=136
+#EXTINF:-1 tvg-id="onbibi" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/yQhNWRf.png",VTVcab 8 | ON BiBi
+https://freem3u.xyz/api/live/play.m3u8?vid=178
+#EXTINF:-1 tvg-id="oninfotv" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/UNacsOQ.png",VTVcab 9 | ON Info TV
+https://freem3u.xyz/api/live/play.m3u8?vid=189
+#EXTINF:-1 tvg-id="oncine" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/EL46Rmo.png",VTVcab 10 | ON Cine
+https://freem3u.xyz/api/live/play.m3u8?vid=176
+#EXTINF:-1 tvg-id="onstyle" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/OvNSuBT.png",VTVcab 12 | ON Style TV
+https://freem3u.xyz/api/live/play.m3u8?vid=184
+#EXTINF:-1 tvg-id="" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/1UiCPsQ.png",VTVcab 13 | ON Home Shopping
+https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Home_Shopping
+#EXTINF:-1 tvg-id="onmusic" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/5p5nN1r.png",VTVcab 15 | ON Music
+https://freem3u.xyz/api/live/play.m3u8?vid=185
+#EXTINF:-1 tvg-id="onfootball" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/mQlQ9dX.png",VTVcab 16 | ON Football
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/BONGDA_HD/manifest.mpd
+#EXTINF:-1 tvg-id="ontrending" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/2KKDAK5.png",VTVcab 17 | ON Trending TV
+https://freem3u.xyz/api/live/play.m3u8?vid=186
+#EXTINF:-1 tvg-id="onsportsnews" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/7H5TgAQ.png",VTVcab 18 | ON Sports News
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/THETHAO_TINTUC_HD/manifest.mpd
+#EXTINF:-1 tvg-id="onviedramas" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/5ckJ7wD.png",VTVcab 19 | ON Vie DRAMAS
+https://freem3u.xyz/api/live/play.m3u8?vid=177
+#EXTINF:-1 tvg-id="onvfamily" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/Ji7Fix4.png",VTVcab 20 | ON VFamily
+https://freem3u.xyz/api/live/play.m3u8?vid=187
+#EXTINF:-1 tvg-id="onkids" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/k6SOGTJ.png",VTVcab 21 | ON KIDS
+https://freem3u.xyz/api/live/play.m3u8?vid=179
+#EXTINF:-1 tvg-id="onlife" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/2zRKDrr.png",VTVcab 22 | ON Life
+https://freem3u.xyz/api/live/play.m3u8?vid=188
+#EXTINF:-1 tvg-id="ongolf" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/A1vT0sq.png",VTVcab 23 | ON Golf 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/THETHAO_GOLF_HD/manifest.mpd
+#-------------------🇻🇳 | VTVcab - InTheBOX.TV-------------------#
+#EXTINF:-1 tvg-id="boxmovie1" group-title🇻🇳 | VTVcab - InTheBOX.TV" tvg-logo="https://i.imgur.com/SJHtg7O.png",VTVcab – InTheBOX.TV | Box Movie 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/BM1/manifest.mpd
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🇻🇳 | VTVcab - InTheBOX.TV" tvg-logo="https://i.imgur.com/4jl004r.png",VTVcab – InTheBOX.TV | Hollywood Classics
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/HC/manifest.mpd
+#EXTINF:-1 tvg-id="boxhits" group-title="🇻🇳 | VTVcab - InTheBOX.TV" tvg-logo="https://i.imgur.com/eSUh21U.png",VTVcab – InTheBOX.TV | Box Hits
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
+#EXTINF:-1 tvg-id="musicbox" group-title="🇻🇳 | VTVcab - InTheBOX.TV" tvg-logo="https://i.imgur.com/CQpacfQ.png",VTVcab – InTheBOX.TV | Music Box
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae
+https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd
+#EXTINF:-1 tvg-id="woman" group-title="🇻🇳 | VTVcab - InTheBOX.TV" tvg-logo="https://i.imgur.com/KUF9Pgr.png",VTVcab – InTheBOX.TV | Woman
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/WO/manifest.mpd
+#-------------------🇻🇳 | SCTV-------------------#
+#EXTINF:-1 tvg-id="sctv1hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/e5bB5au.png",SCTV1 
+https://vmttv.dpdns.org/VTVGo/?sctv1
+#EXTINF:-1 tvg-id="sctv2hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/gSmvktp.png",SCTV2 | TodayTV
+https://freem3u.xyz/api/live/play.m3u8?vid=201
+#EXTINF:-1 tvg-id="sctv3hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/eh3ihjb.png",SCTV3 | SeeTV
+https://vmttv.dpdns.org/VTVGo/?sctv3
+#EXTINF:-1 tvg-id="sctv4hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/yj4HTAc.png",SCTV4
+https://vmttv.dpdns.org/VTVGo/?sctv4
+#EXTINF:-1 tvg-id="       " group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/2bTj5OP.png",SCTV5 | SCJ TV Shopping
+https://vmttv.dpdns.org/VTVGo/?sctv5
+#EXTINF:-1 tvg-id="sctv6hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/P0YHX5o.png",SCTV6
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="sctv7hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/9cNqDtI.png",SCTV7
+https://vmttv.dpdns.org/VTVGo/?sctv7
+#EXTINF:-1 tvg-id="sctv8hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/epwIc56.png",SCTV8 | VITV
+https://vmttv.dpdns.org/VTVGo/?sctv8
+#EXTINF:-1 tvg-id="sctv9hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/umn9Y1j.png",SCTV9 
+https://vmttv.dpdns.org/VTVGo/?sctv9
+#EXTINF:-1 tvg-id="        " group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/vYKy0wY.png",SCTV10 | Happymall
+https://vmttv.dpdns.org/VTVGo/?sctv10
+#EXTINF:-1 tvg-id="sctv11hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/pcqQkjR.png",SCTV11 
+https://vmttv.dpdns.org/VTVGo/?sctv11
+#EXTINF:-1 tvg-id="sctv12hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/OkRuqMT.png",SCTV12 
+https://vmttv.dpdns.org/VTVGo/?sctv12
+#EXTINF:-1 tvg-id="sctv13hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/Adhofnp.png",SCTV13 
+https://vmttv.dpdns.org/VTVGo/?sctv13
+#EXTINF:-1 tvg-id="sctv14hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/cJJJcmW.png",SCTV14 | Kênh Phim Việt
+https://vmttv.dpdns.org/VTVGo/?sctv14
+#EXTINF:-1 tvg-id="sctv15hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/qu8zwgh.png",SCTV15 | SSport 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://liveatmvng.vtvprime.vn/live/data8/SCTV15HD/Live_DASHDRM/SCTV15HD.mpd
+#EXTINF:-1 tvg-id="sctv16hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/UGVz15Z.png",SCTV16
+https://vmttv.dpdns.org/VTVGo/?sctv16
+#EXTINF:-1 tvg-id="sctv17hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/SWU6DTB.png",SCTV17 | SSport
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://liveatmvng.vtvprime.vn/live/data8/SCTV17/Live_DASHDRM/SCTV17.mpd
+#EXTINF:-1 tvg-id="sctv18hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/xDKUorD.png",SCTV18
+https://vmttv.dpdns.org/VTVGo/?sctv18
+#EXTINF:-1 tvg-id="sctv19hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/PMfxczF.png",SCTV19
+https://vmttv.dpdns.org/VTVGo/?sctv19
+#EXTINF:-1 tvg-id="sctv20hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/M6N0Qxi.png",SCTV20 
+https://vmttv.dpdns.org/VTVGo/?sctv20
+#EXTINF:-1 tvg-id="sctv21hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/ko2B1TN.png",SCTV21 | Việt Nam ký ức
+https://vmttv.dpdns.org/VTVGo/?sctv21
+#EXTINF:-1 tvg-id="sctv22hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/Nl80opD.png",SCTV22 | SSport 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=883fe37e69254f0db1a9c8908e5ab56f:8f0762de62f849039420b513068aca40
+https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/K7B6vPB.png",SCTV Phim Tổng hợp
+https://vmttv.dpdns.org/VTVGo/?sctvphim
+#EXTINF:-1 tvg-id="sctv4K" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/OW2qFKM.png",SCTV 4K
+https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
+#-------------------"🇻🇳 | HTV"-------------------#
+#EXTINF:-1 tvg-id="htv1" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/eJL1jCs.png",HTV1 HD
+https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv2hd" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/O6GTYRf.png",HTV2 HD | Vie Channel
+https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv3" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/N9Zwu7H.png",HTV3 HD
+https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv4" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/yu30UYa.png",HTV4 HD
+https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv5" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/QHizagk.png",HTV5 HD | Bchannel
+https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv7hd" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/G3OVYJU.png",HTV7 HD
+https://live.fptplay53.net/live/media/htv7/live247-hls-avc/htv7.m3u8
+#EXTINF:-1 tvg-id="htv9hd" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/sHYE36W.png",HTV9 HD
+https://live-a.fptplay53.net/live/media/htv9/live247-hls-avc/htv9.m3u8
+#EXTINF:0 tvg-id="htvthethaohd" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/QpkBtM8.png",HTV Thể Thao HD
+https://live.fptplay53.net/live/media/htvthethao/live247-hls-avc/htvthethao.m3u8
+#-------------------"🇻🇳 | HTVC"-------------------#
+#EXTINF:0 tvg-id="htvccanhachd" group-title="🇻🇳 | HTVC" tvg-logo="https://i.imgur.com/JH7hwSP.png",HTVC Ca Nhạc
+https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="htvcdulichhd" group-title="🇻🇳 | HTVC" tvg-logo="https://i.imgur.com/AibL0YX.png",HTVC Du Lịch & Cuộc Sống
+https://live.fptplay53.net//epzhd1/htvcdulich_vhls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="🇻🇳 | HTVC" tvg-logo="https://i.imgur.com/ClAqwdR.png",HTVC Gia Đình 
+https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="htvcphimhd" group-title="🇻🇳 | HTVC" tvg-logo="https://i.imgur.com/m686ycq.png",HTVC Phim 
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="htvcphunuhd" group-title="🇻🇳 | HTVC" tvg-logo="https://i.imgur.com/lttQ5py.png",HTVC Phụ Nữ 
+https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="htvcthuanviet" group-title="🇻🇳 | HTVC" tvg-logo="https://i.imgur.com/r1mvTp8.png",HTVC Thuần Việt
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="htvcplushd" group-title="🇻🇳 | HTVC" tvg-logo="https://i.imgur.com/rhxzGQ8.png",HTVC+ 
+https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
+#-------------------🇻🇳 | Địa phương-------------------#
+#EXTINF:-1 tvg-id="angiang1" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/QE2DMks.png",ATV1 | Báo và Phát thanh – Truyền hình An Giang
+https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="angiang2" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/N6UodQV.png",ATV2 | Báo và Phát thanh – Truyền hình An Giang
+https://live.fptplay53.net/epzhd2/angiang02hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="angiang3" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/6Q6YcRi.png",ATV3 | Báo và Phát thanh – Truyền hình An Giang
+https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="hatinh" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/6HRW9hi.png",BHTTV | Báo và Phát thanh – Truyền hình Hà Tĩnh
+https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="bacninh" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/XEoAV5l.png",BTV | Báo và Phát thanh – Truyền hình Bắc Ninh
+https://live.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="cantho1" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/cbgHHku.png",CầnThơ1 | Báo và Phát thanh – Truyền hình TP. Cần Thơ
+https://live.fptplay53.net/epzhd2/cantho01_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="cantho2" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/0xj6umb.png",CầnThơ2 | Báo và Phát thanh – Truyền hình TP. Cần Thơ
+https://live.fptplay53.net/epzhd2/cantho02_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="cantho3" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/fPvgtgV.png",CầnThơ3 | Báo và Phát thanh – Truyền hình TP. Cần Thơ
+https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="caobang" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/4wCcomC.png",CRTV | Báo và Phát thanh – Truyền hình Cao Bằng
+https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="camau" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/ZKV1ok2.png",CTV | Báo và Phát thanh – Truyền hình Cà Mau
+https://live.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="dongnai1" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/GgwBihn.png",ĐNNRTV1 | Báo và Phát thanh – Truyền hình TP. Đồng Nai
+https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="dongnai2" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/Gh2tbU2.png",ĐNNRTV2 | Báo và Phát thanh – Truyền hình TP. Đồng Nai 
+https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="        " group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/Fl7CQrx.png",ĐNNRTV3 | Báo và Phát thanh – Truyền hình TP. Đồng Nai 
+https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
+#EXTINF:-1 tvg-id="danang1" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/3G194eY.png",DNRT1 | Báo và Phát thanh – Truyền hình TP. Đà Nẵng
+https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="danang2" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/lb56Na4.png",DNRT2 | Báo và Phát thanh – Truyền hình TP. Đà Nẵng
+https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="daklak" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/P1WNwxi.png",DRT | Báo và Phát thanh – Truyền hình Đắk Lắk
+https://live.fptplay53.net/epzsd1/daklak_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="dienbien" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/hMDRDxN.png",ĐTV | Báo và Phát thanh – Truyền hình Điện Biên
+https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="gialai" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/ULxoakW.png",GTV | Báo và Phát thanh – Truyền hình Gia Lai
+https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="hitv" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/HAso86q.png",HanoiTV – HiTV | Báo và Phát thanh – Truyền hình Hà Nội
+https://freem3u.xyz/api/live/play.m3u8?vid=32
+#EXTINF:-1 tvg-id="youtv" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/ChIFu86.png",HanoiTV – YouTV | Báo và Phát thanh – Truyền hình Hà Nội
+https://freem3u.xyz/api/live/play.m3u8?vid=31
+#EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/1ZscmEO.png",HanoiTV1 | Báo và Phát thanh – Truyền hình Hà Nội
+https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/r8ri4dS.png",HanoiTV2 | Báo và Phát thanh – Truyền hình Hà Nội
+https://live.fptplay53.net/fnxhd1/hntv2_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="hue" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/t9YVka2.png",HueTV | Báo và Phát thanh – Truyền hình TP. Huế
+https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="hungyen" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/JAglyuT.png",HYTV | Báo và Phát thanh – Truyền hình Hưng Yên
+https://live.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="khanhhoa" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/oFhQCbc.png",KTV | Báo và Phát thanh – Truyền hình Khánh Hòa
+https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="khanhhoa1" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/D2qNF42.png",KTV1 | Báo và Phát thanh – Truyền hình Khánh Hòa
+https://live.fptplay53.net/epzsd1/khanhhoa01_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="langson" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/yxz02UD.png",LSTV | Báo và Phát thanh – Truyền hình Lạng Sơn
+https://live.fptplay53.net/fnxsd1/langson_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="laichau" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/n02cvKQ.png",LTV | Báo và Phát thanh – Truyền hình Lai Châu
+https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="lamdong1" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/ttXb7ya.png",LTV1 | Báo và Phát thanh – Truyền hình Lâm Đồng 
+https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="lamdong2" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/u1yEOU7.png",LTV2 | Báo và Phát thanh – Truyền hình Lâm Đồng
+https://live.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ninhbinh" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/pL4NqYO.png",NBTV | Báo và Phát thanh – Truyền hình Ninh Bình
+https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="nghean" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/FLvFSLS.png",NTV | Báo và Phát thanh – Truyền hình Nghệ An
+https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="phutho" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/LXuRwJY.png",PTV | Báo và Phát thanh – Truyền hình Phú Thọ
+https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="quangngai" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/gFCWw03.png",QNgTV1 | Báo và Phát thanh – Truyền hình Quảng Ngãi
+https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="quangngai2" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/qRRP87p.png",QNgTV2 | Báo và Phát thanh – Truyền hình Quảng Ngãi
+https://live.fptplay53.net/epzsd1/quangngai01_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="quangtri" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/DmYizk1.png",QTTV | Báo và Phát thanh – Truyền hình Quảng Trị
+https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="quangninh1" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/KVia0uU.png",QTV1 | Báo và Phát thanh – Truyền hình Quảng Ninh 
+https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="quangninh3" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/ci6kzgL.png",QTV3 | Báo và Phát thanh – Truyền hình Quảng Ninh
+https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="sonla" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/xjkm6Zg.png",STV | Báo và Phát thanh – Truyền hình Sơn La
+https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="tayninh1" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/PzQlwck.png",TayNinhTV | Báo và Phát thanh – Truyền hình Tây Ninh
+https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="dongthap1" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/TqAz7ET.png",THĐT1 | Báo và Phát thanh – Truyền hình Đồng Tháp
+https://live.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="dongthap2" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/PfETBEp.png",THĐT2 – Miền Tây | Báo và Phát thanh – Truyền hình Đồng Tháp
+https://live.fptplay53.net/epzhd2/mientaythdt02_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="laocai" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/ldwQU4L.png",THLC | Báo và Phát thanh – Truyền hình Lào Cai
+https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="haiphong" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/iq9JLb9.png",THP | Báo và Phát thanh – Truyền hình Hải Phòng
+https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="haiphong3" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/zDvdzQg.png",THP3 | Báo và Phát thanh – Truyền hình Hải Phòng
+https://live.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/p90ACqd.png",THVL1 | Báo và Phát thanh – Truyền hình Vĩnh Long
+https://vips-livecdn.fptplay.net/live/media/vinhlong1/live247-hls-avc/vinhlong1.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/gE9cfDW.png",THVL2 | Báo và Phát thanh – Truyền hình Vĩnh Long
+https://vips-livecdn.fptplay.net/live/media/vinhlong2/live247-hls-avc/vinhlong2.m3u8
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/dySxJGG.png",THVL3 | Báo và Phát thanh – Truyền hình Vĩnh Long
+https://vips-livecdn.fptplay.net/live/media/vinhlong3/live247-hls-avc/vinhlong3.m3u8
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/i7tzrVl.png",THVL4 | Báo và Phát thanh – Truyền hình Vĩnh Long
+https://live.fptplay53.net/epzhd2/vinhlong4-hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vinhlong5hd" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/6OUCVCh.png",THVL5 | Báo và Phát thanh – Truyền hình Vĩnh Long
+https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="thainguyen" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/ijUMC9z.png",TN | Báo và Phát thanh – Truyền hình Thái Nguyên
+https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="thanhhoa" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/UwTCbZ5.png",TTV | Báo và Phát thanh – Truyền hình Thanh Hóa
+https://freem3u.xyz/api/live/play.m3u8?vid=89
+#EXTINF:-1 tvg-id="tuyenquang" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/DHKJNu8.png",TTV | Báo và Phát thanh – Truyền hình Tuyên Quang
+https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
+#-------------------🌏 | 🌏 | Quốc Tế-------------------#
+#EXTINF:-1 tvg-id="hbohd" group-title="🌏 | Quốc Tế" tvg-logo="",HBO
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
+#EXTINF:-1 tvg-id="afnhd" group-title="🌏 | Quốc Tế" tvg-logo="",Asian Food Network
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="🌏 | Quốc Tế" tvg-logo="",Cinemax
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6YaPX0c9D9hpnt5I1THCsA","kid":"rLTCNHEGMyetxzLig8CEfw"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="🌏 | Quốc Tế" tvg-logo="",CinemaWorld
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s14Sp1pCpvkYRyOpD/QtnA","kid":"7nkVVk10OdCb01Vv/MyHpA"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
+#EXTINF:-1 tvg-id="boomerang" group-title="🌏 | Quốc Tế" tvg-logo="",Cartoonito
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1f0d759e914369db388b3b0dc815971:5678d317e17007a88a9b9539e4526512
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
+#EXTINF:-1 tvg-id="cartoonhd" group-title="🌏 | Quốc Tế" tvg-logo="",Cartoon Network
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PMGt1Drszj/jHJxqKluMIQ","kid":"PCAWZmCpOnWsd9uBVnOJ9w"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
+#EXTINF:-1 tvg-id="dreamworks" group-title="🌏 | Quốc Tế" tvg-logo="",Dreamworks
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WTKPYh1WdnvF/5QEqJQGgw","kid":"Z9riBSfGPa2qrmCaqRV3yw"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
+#EXTINF:-1 tvg-id="bbcearth" group-title="🌏 | Quốc Tế" tvg-logo="",BBC Earth
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5014941a2c42379880b5edf72304c165:f3fa0fe3cd39a52f4eefd36ff7161e89
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="🌏 | Quốc Tế" tvg-logo="",BBC Lifestyle
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58b949986ed13294bc01b0f330abc527:23e8c5f2fe202906ac2d6554d9527299
+https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
+#EXTINF:-1 tvg-id="cbeebies" group-title="🌏 | Quốc Tế" tvg-logo="",BBC CBeebies
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uDPR9AwmHveIlvl+BvgM3A","kid":"zKc6AGtLOaWVIHzrXtnKCg"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏 | Quốc Tế" tvg-logo="",BBC World News
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7ba46086dda345a929e29bf155e459c:d374b8f39904bf572689ea347ae86591
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
+#EXTINF:-1 tvg-id="arirang" group-title="🌏 | Quốc Tế" tvg-logo="",Arirang
+https://live.fptplay53.net/fnxhd1/airanghd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="bloomberg" group-title="🌏 | Quốc Tế" tvg-logo="",Bloomberg
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1071393f8fc237f3a9a28028142110f7:7a0f8c3c72e0ffff811d534c929c57c2
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd
+#EXTINF:-1 tvg-id="cnbc" group-title="🌏 | Quốc Tế" tvg-logo="",CNBC Asia
+https://live.fptplay53.net/fnxhd1/cnbchd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="cnn" group-title="🌏 | Quốc Tế" tvg-logo="",CNN International
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=714cc8ed05a03abb9ac61bd4bbd1d8a0:1acf58ff8d4cd87c2d3c12d22248efb1
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
+#EXTINF:-1 tvg-id="cna" group-title="🌏 | Quốc Tế" tvg-logo="",CNA
+https://freem3u.xyz/api/live/play.m3u8?vid=112
+#EXTINF:-1 tvg-id="" group-title="🌏 | Quốc Tế" tvg-logo="",TV5Monde Asie
+https://freem3u.xyz/api/live/play.m3u8?vid=9852
+#EXTINF:-1 tvg-id="dw" group-title="🌏 | Quốc Tế" tvg-logo="",DW
+https://freem3u.xyz/api/live/play.m3u8?vid=109
+#EXTINF:-1 tvg-id="davincihd" group-title="🌏 | Quốc Tế" tvg-logo="",Da Vinci
+https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="france24eng" group-title="🌏 | Quốc Tế" tvg-logo="",France 24
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="kbsworld" group-title="🌏 | Quốc Tế" tvg-logo="",KBS World
+https://freem3u.xyz/api/live/play.m3u8?vid=213
+#EXTINF:-1 tvg-id="" group-title="🌏 | Quốc Tế" tvg-logo="",NHK World-Japan
+https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="animalhd" group-title="🌏 | Quốc Tế" tvg-logo="",Animal Planet
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec6f072c7125377a9bc0ae61598095f4:1d5388e0781415ebcec9914f5ad75875
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
+#EXTINF:-1 tvg-id="discoveryhd" group-title="🌏 | Quốc Tế" tvg-logo="",Discovery
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vqWgcVfgxNF7Eas5lRf5Ug","kid":"60Fg6lU6Mh2JlVPk55b+wg"}],"type":"temporary"}
+https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌏 | Quốc Tế" tvg-logo="",Discovery Asia
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
+#EXTINF:-1 tvg-id="axnhd" group-title="🌏 | Quốc Tế" tvg-logo="",AXN
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
+#EXTINF:-1 tvg-id="outdoor" group-title="🌏 | Quốc Tế" tvg-logo="",Outdoor Channel
+https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="historyhd" group-title="🌏 | Quốc Tế" tvg-logo="",History
+https://freem3u.xyz/api/live/play.m3u8?vid=9856
+#EXTINF:-1 tvg-id="dmax" group-title="🌏 | Quốc Tế" tvg-logo="",DMAX
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DGTM+5eOc5C9MzRAdUkq7A","kid":"U7JvkErgOiC1ZHfPucXcog"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
+#EXTINF:-1 tvg-id="abcaustralia" group-title="🌏 | Quốc Tế" tvg-logo="",ABC Australia
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a09a73ec1dc348584e2f130e27da667:06f8d1a6feaffbdab92adf347e7b469c
+https://s935.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
+#EXTINF:-1 tvg-id="fashionhd" group-title="🌏 | Quốc Tế" tvg-logo="", Fashion TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1d9f25701023508bfa6737e3a8c7001:30c3613e9b06e0f7cc201014f31bf5d8
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
+#EXTINF:-1 tvg-id="kix" group-title="🌏 | Quốc Tế" tvg-logo="",KIX
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="tlchd" group-title="🌏 | Quốc Tế" tvg-logo="",TLC
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6908629732639ada4814a6208296d9c:7ca9bf03623f77b5e2f16df0b53f274d
+https://s129135.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
+#EXTINF:-1 tvg-id="warnertvhd" group-title="🌏 | Quốc Tế" tvg-logo="",Warner TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
+#EXTINF:-1 tvg-id="hgtv" group-title="🌏 | Quốc Tế" tvg-logo="",HGTV
+
+#-------------------⚽| Thể thao Quốc Tế-------------------#
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/wC1Itvj.png",CCTV Billiards (Trung Quốc)
+http://107.150.60.122/live/ystq.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/oAerzIR.png",CCTV Golf & Tennis (Trung Quốc)
+http://107.150.60.122/live/gefwq.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/5JZYZHp.png",CCTV Strom Football (Trung Quốc)
+http://107.150.60.122/live/fyzq.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/BQ2Lvoa.png",CCTV–5 (Trung Quốc)
+http://107.150.60.122/live/cctv5hd.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/gVuvoOX.png",CCTV–5+ (Trung Quốc)
+http://107.150.60.122/live/cctv5p.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/ypqPFJT.png",CCTV–16 (Trung Quốc)
+http://107.150.60.122/live/cctv16hd.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/JdabWhL.png",Eurosport 1
+http://50.7.120.34:8080/EUROSPORT/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/OCSKMj2.png",Eurosport 2
+http://50.7.120.34:8080/EUROSPORT_2/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/tdarg2p.png",Sky Sports + (Vương quốc Anh)
+
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/CxYDu0x.png",Sky Sports Action (Vương quốc Anh)
+https://film4k.net/api/tv/ants/16/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/hS7tAXZ.png",Sky Sports Cricket (Vương quốc Anh)
+
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/Zek15oN.png",Sky Sports F1 (Vương quốc Anh)
+https://film4k.net/api/tv/ants/21/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/Zek15oN.png",Sky Sports F1 UHD (Vương quốc Anh)
+
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/VBASXDF.png",Sky Sports Football (Vương quốc Anh)
+https://film4k.net/api/tv/ants/22/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/6Xg4o7u.png",Sky Sports Golf (Vương quốc Anh)
+https://film4k.net/api/tv/ants/23/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/10keqTG.png",Sky Sports Main Event (Vương quốc Anh)
+https://film4k.net/api/tv/ants/20/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/10keqTG.png",Sky Sports Main Event UHD (Vương quốc Anh)
+
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/1mG3N5L.png",Sky Sports Mix (Vương quốc Anh)
+
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/5JXKA9Q.png",Sky Sports News (Vương quốc Anh)
+
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/M6du2y4.png",Sky Sports Premier League (Vương quốc Anh)
+https://film4k.net/api/tv/ants/4482/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/g9kuxXA.png",Sky Sports Racing (Vương quốc Anh)
+
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/NH6Ef1u.png",Sky Sports Tennis (Vương quốc Anh)
+
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/q7LkvJC.png",TNT Sports 1 (Vương quốc Anh)
+https://film4k.net/api/tv/ants/3/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/X6oMzZ8.png",TNT Sports 2 (Vương quốc Anh)
+https://film4k.net/api/tv/ants/4/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/afpzTs6.png",TNT Sports 3 (Vương quốc Anh)
+https://film4k.net/api/tv/ants/5/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/LpWThxy.png",TNT Sports 4 (Vương quốc Anh)
+https://film4k.net/api/tv/ants/6/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/fAyvqdH.png",TNT Sports Ultimate UHD (Vương quốc Anh)
+https://film4k.net/api/tv/ants/6/index.m3u8
