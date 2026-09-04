@@ -400,7 +400,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=188
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livesctvng.vtvprime.vn/Live_DASHDRM1/THETHAO_GOLF_HD/manifest.mpd
 #-------------------🇻🇳 | VTVcab - InTheBOX.TV-------------------#
-#EXTINF:-1 tvg-id="boxmovie1" group-title🇻🇳 | VTVcab - InTheBOX.TV" tvg-logo="https://i.imgur.com/SJHtg7O.png",VTVcab – InTheBOX.TV | Box Movie 1
+#EXTINF:-1 tvg-id="boxmovie1" group-title="🇻🇳 | VTVcab - InTheBOX.TV" tvg-logo="https://i.imgur.com/SJHtg7O.png",VTVcab – InTheBOX.TV | Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
