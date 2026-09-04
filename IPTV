@@ -803,7 +803,7 @@ http://107.150.60.122/live/cctv5p.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/ypqPFJT.png",CCTV–16 (Trung Quốc)
 http://107.150.60.122/live/cctv16hd.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/tdarg2p.png",Sky Sports + (Vương quốc Anh)
-
+https://film4k.net/api/tv/ants/17/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/CxYDu0x.png",Sky Sports Action (Vương quốc Anh)
 https://film4k.net/api/tv/ants/16/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/hS7tAXZ.png",Sky Sports Cricket (Vương quốc Anh)
@@ -827,9 +827,9 @@ https://film4k.net/api/tv/ants/20/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/M6du2y4.png",Sky Sports Premier League (Vương quốc Anh)
 https://film4k.net/api/tv/ants/4482/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/g9kuxXA.png",Sky Sports Racing (Vương quốc Anh)
-
+https://film4k.net/api/tv/ants/27/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/NH6Ef1u.png",Sky Sports Tennis (Vương quốc Anh)
-
+https://film4k.net/api/tv/ants/28/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/q7LkvJC.png",TNT Sports 1 (Vương quốc Anh)
 https://film4k.net/api/tv/ants/3/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/X6oMzZ8.png",TNT Sports 2 (Vương quốc Anh)
