@@ -790,11 +790,11 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 #EXTINF:-1 tvg-id="hgtv" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/Ng9X9aG.png",HGTV
 https://freem3u.xyz/api/live/play.m3u8?vid=99
 #-------------------⚽| Thể thao Quốc Tế-------------------#
-#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/Vtk2cGI.png",beIN Sports 1 (Đông Nam Á, Hồng Kông và Úc)
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/Vtk2cGI.png",beIN Sports 1 (Đông Nam Á – Hồng Kông và Úc)
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/415625.ts
-#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/vUJZSvs.png",beIN Sports 2 (Đông Nam Á, Hồng Kông và Úc)
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/vUJZSvs.png",beIN Sports 2 (Đông Nam Á – Hồng Kông và Úc)
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/415626.ts
-#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/UYSMao3.png",beIN Sports 3 (Đông Nam Á, Hồng Kông và Úc)
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/UYSMao3.png",beIN Sports 3 (Đông Nam Á – Hồng Kông và Úc)
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/415627.ts
 #EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/wC1Itvj.png",CCTV Billiards (Trung Quốc)
 http://107.150.60.122/live/ystq.m3u8
