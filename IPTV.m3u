@@ -790,6 +790,12 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 #EXTINF:-1 tvg-id="hgtv" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/Ng9X9aG.png",HGTV
 https://freem3u.xyz/api/live/play.m3u8?vid=99
 #-------------------⚽| Thể thao Quốc Tế-------------------#
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/Vtk2cGI.png",beIN Sports 1 (Đông Nam Á, Hồng Kông và Úc)
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/415625.ts
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/vUJZSvs.png",beIN Sports 2 (Đông Nam Á, Hồng Kông và Úc)
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/415626.ts
+#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/UYSMao3.png",beIN Sports 3 (Đông Nam Á, Hồng Kông và Úc)
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/415627.ts
 #EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/wC1Itvj.png",CCTV Billiards (Trung Quốc)
 http://107.150.60.122/live/ystq.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/oAerzIR.png",CCTV Golf & Tennis (Trung Quốc)
@@ -811,7 +817,7 @@ https://film4k.net/api/tv/ants/16/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/Zek15oN.png",Sky Sports F1 (Vương quốc Anh)
 https://film4k.net/api/tv/ants/21/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/Zek15oN.png",Sky Sports F1 UHD (Vương quốc Anh)
-
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/384213.ts
 #EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/VBASXDF.png",Sky Sports Football (Vương quốc Anh)
 https://film4k.net/api/tv/ants/22/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/6Xg4o7u.png",Sky Sports Golf (Vương quốc Anh)
@@ -819,7 +825,7 @@ https://film4k.net/api/tv/ants/23/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/10keqTG.png",Sky Sports Main Event (Vương quốc Anh)
 https://film4k.net/api/tv/ants/20/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/10keqTG.png",Sky Sports Main Event UHD (Vương quốc Anh)
-
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/384215.ts
 #EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/1mG3N5L.png",Sky Sports Mix (Vương quốc Anh)
 
 #EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/5JXKA9Q.png",Sky Sports News (Vương quốc Anh)
@@ -839,4 +845,4 @@ https://film4k.net/api/tv/ants/5/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/LpWThxy.png",TNT Sports 4 (Vương quốc Anh)
 https://film4k.net/api/tv/ants/6/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/fAyvqdH.png",TNT Sports Ultimate UHD (Vương quốc Anh)
-https://film4k.net/api/tv/ants/6/index.m3u8
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/384243.ts
