@@ -309,31 +309,31 @@ https://livevliatmcdw.seenow.vn/live/data8/SKSS1/Live_DASHDRM/SKSS1.mpd
 #KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
 https://livevliatmcdw.seenow.vn/live/data8/SKSS2/Live_DASHDRM/SKSS2.mpd
 #-------------------🇻🇳 | VTV-------------------#
-#EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/eSqvlrp.png",VTV1 HD
+#EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/nde4ZGo.png",VTV1 HD
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/GiyLCvm.png",VTV2 HD
+#EXTINF:-1 tvg-id="vtv2hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/PQOFtAz.png",VTV2 HD
 https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/vtv2.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/cwnSuFg.png",VTV3 HD
+#EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/y43MJ4R.png",VTV3 HD
 https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/xE6ujkB.png",VTV4 HD
+#EXTINF:-1 tvg-id="vtv4hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/X5xWubC.png",VTV4 HD
 https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/DNRsgaQ.png",Vietnam Today
 https://live.fptplay53.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/wxmmBNr.png",VTV5 HD
+#EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/QbkRyeD.png",VTV5 HD
 https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/RfDPwcI.png",VTV5 Tây Nam Bộ HD
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/3Et7Xuf.png",VTV5 Tây Nam Bộ HD
 https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/qHwIQTI.png",VTV5 Tây Nguyên HD 
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/9ex5xma.png",VTV5 Tây Nguyên HD 
 https://live.fptplay53.net/live/media/vtv5tn/live-hls-avc/vtv5tn.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/DwMeSZn.png",VTV6 HD
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/3COkK1C.png",VTV6 HD
 https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/x3AM7uS.png",VTV7 HD
+#EXTINF:-1 tvg-id="vtv7hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/KkRI7mf.png",VTV7 HD
 https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/vtv7.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/ZvKek9c.png",VTV8 HD
+#EXTINF:-1 tvg-id="vtv8hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/1qD4pLg.png",VTV8 HD
 https://live.fptplay53.net/live/media/vtv8/live-hls-avc/vtv8.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/Ale7isr.png",VTV9 HD
+#EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/BJZo8IV.png",VTV9 HD
 https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/vtv9.m3u8
-#EXTINF:-1 tvg-id="vtv10hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/nu2Q9ix.png",VTV10 HD
+#EXTINF:-1 tvg-id="vtv10hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/QXNh8tM.png",VTV10 HD
 https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/vtv10.m3u8
 #-------------------🇻🇳 | Thiết yếu-------------------#
 #EXTINF:-1 tvg-id="antvhd" group-title="🇻🇳 | Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD
