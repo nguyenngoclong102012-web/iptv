@@ -99,7 +99,7 @@ https://vmttv.dpdns.org/tv360/?id=tv360-12
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"hW8pGvNaXbe30MlEsymTuQ","k":"qjVHVH8IT-TJ6lIG7_treA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=856f291af35a5db7b7d0c944b32993b9:aa3547547f084fe4c9ea5206effb6b78
 https://vmttv.dpdns.org/tv360/?id=tv360-13
 #EXTINF:-1 tvg-id="tv360plus14" group-title="🔴 | TV360 - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/wijXqGx.png",TV360+ 14
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -878,6 +878,6 @@ http://107.150.60.122/live/cctv16hd.m3u8
 
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/afpzTs6.png",TNT Sports 3 (Vương quốc Anh)
 
-#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/LpWThxy.png",TNT Sports 4 (Vương quốc Anh)
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/LpWThxy.png",TNT Sports 4 (Vương quốc Anh)
 
-#EXTINF:-1 group-title="⚽| Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/fAyvqdH.png",TNT Sports Ultimate UHD (Vương quốc Anh)
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/fAyvqdH.png",TNT Sports Ultimate UHD (Vương quốc Anh)
