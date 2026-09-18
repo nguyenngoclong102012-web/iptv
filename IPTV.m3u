@@ -381,7 +381,11 @@ https://vips-livecdn.fptplay.net/live/media/quocphongvn/live-hls-avc/quocphongvn
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/n4uKJMc.png",VTVcab 1 | ON Vie Giải Trí
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 tvg-id="onphimviet" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/1iF6T3g.png",VTVcab 2 | ON Phim Việt
-https://vod-h05-hlc.tv360.vn:18443//348_3.m3u8?AdaptiveType=HLS&SessionID=5c2ac389-f650-46dd-b420-a60ddb512f6d&MinBw=0&MaxBw=20000000
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/PHIM_VIET/manifest.mpd
 #EXTINF:-1 tvg-id="onsports" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/Z06Ja5O.png",VTVcab 3 | ON Sports
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
