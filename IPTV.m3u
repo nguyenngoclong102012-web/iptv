@@ -21,17 +21,17 @@ https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
 https://tglmp04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
-#EXTINF:-1 group-title="🔴 | 20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCH05.jpg",Mediacorp | Asian Games CH05
+#EXTINF:-1 group-title="🔴 | 20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://i.imgur.com/99aihzf.jpeg",Mediacorp | Asian Games CH05
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
 https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
-#EXTINF:-1 group-title="🔴 | 20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCH06.jpg",Mediacorp | Asian Games CH06
+#EXTINF:-1 group-title="🔴 | 20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://i.imgur.com/ve8ZXu0.jpeg",Mediacorp | Asian Games CH06
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
 https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
-#EXTINF:-1 group-title="🔴 | 20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCH07.jpg",Mediacorp | Asian Games CH07
+#EXTINF:-1 group-title="🔴 | 20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://i.imgur.com/uisjAlc.jpeg",Mediacorp | Asian Games CH07
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=593abb95b362434f812e42e7780779b0:dd7e80e1d618d69631f21d04423dcab7
@@ -381,11 +381,7 @@ https://vips-livecdn.fptplay.net/live/media/quocphongvn/live-hls-avc/quocphongvn
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/n4uKJMc.png",VTVcab 1 | ON Vie Giải Trí
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 tvg-id="onphimviet" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/1iF6T3g.png",VTVcab 2 | ON Phim Việt
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
-https://livesctvng.vtvprime.vn/Live_DASHDRM1/PHIM_VIET/manifest.mpd
+https://freem3u.xyz/api/live/play.m3u8?vid=175
 #EXTINF:-1 tvg-id="onsports" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/Z06Ja5O.png",VTVcab 3 | ON Sports
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
