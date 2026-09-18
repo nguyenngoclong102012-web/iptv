@@ -71,9 +71,9 @@ https://cdn.drt.vn/live/285054c4567dea54b3fb14bfd60d61230b5/chunklist.m3u8
 https://live.mediatech.vn/live/28535437e79046746c1bf9787970a876038/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇻🇳 📻 | Địa phương" tvg-logo="https://i.imgur.com/RR4C4iB.png",GTV Radio | Báo và Phát thanh – Truyền hình Gia Lai (FM 97 – 99.9 – 102MHz)
 https://tv.gialaitv.vn/radio.m3u8
-#EXTINF:-1 tvg-id="hanoi90" group-title="🇻🇳 📻 | Địa phương" tvg-logo="https://i.imgur.com/qF9QwFR.png",HanoiTV Radio | Báo và Phát thanh – Truyền hình Hà Nội (FM 90MHz) (Tiếp âm 96MHz)
+#EXTINF:-1 tvg-id="hanoi90" group-title="🇻🇳 📻 | Địa phương" tvg-logo="https://i.imgur.com/G3fWh1c.png",HanoiTV FM90 | Báo và Phát thanh – Truyền hình Hà Nội (FM 90MHz)
 https://freem3u.xyz/api/live/play.m3u8?vid=9905
-#EXTINF:-1 tvg-id="hanoi96" group-title="🇻🇳 📻 | Địa phương" tvg-logo="https://i.imgur.com/K3CkrEw.png",HanoiTV Radio | Báo và Phát thanh – Truyền hình Hà Nội (FM 96MHz)
+#EXTINF:-1 tvg-id="hanoi96" group-title="🇻🇳 📻 | Địa phương" tvg-logo="https://i.imgur.com/K3CkrEw.png",HanoiTV FM96 | Báo và Phát thanh – Truyền hình Hà Nội (FM 96MHz)
 https://freem3u.xyz/api/live/play.m3u8?vid=9906
 #EXTINF:-1 tvg-id="" group-title="🇻🇳 📻 | Địa phương" tvg-logo="https://i.imgur.com/L1Wtid8.png",Hue Radio | Báo và Phát thanh – Truyền hình TP. Huế (FM 93 – 106.1MHz)
 https://live.huetv.com.vn/Radio-online/chunklist.m3u8
