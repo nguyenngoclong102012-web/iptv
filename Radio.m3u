@@ -106,7 +106,7 @@ https://live-hq.evgcdn.net/live/2851dd3d9016ac74d84b0c4a7a659f76891/chunklist.m3
 #EXTINF:-1 tvg-id="" group-title="🇻🇳 📻 | Địa phương" tvg-logo="https://i.imgur.com/mKX2aCn.png",THĐT Radio | Báo và Phát thanh – Truyền hình Đồng Tháp (FM 96.2 – 98.4MHz)
 https://618b88f69e53b.streamlock.net/THDTR/thdtradio/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇻🇳 📻 | Địa phương" tvg-logo="https://i.imgur.com/VkZpyV7.png",THLC Radio | Báo và Phát thanh – Truyền hình Lào Cai (FM 92.1 – 97MHz)
-https://baolaocai.vn/radio
+https://live.baolaocai.vn/channel2/stream.m3u8?t=1789862272230
 #EXTINF:-1 tvg-id="haiphong937" group-title="🇻🇳 📻 | Địa phương" tvg-logo="https://i.imgur.com/ar7dfQp.png",THP Radio | Báo và Phát thanh – Truyền hình Hải Phòng (FM 93.7 – 104.5MHz)
 https://cdn.thhp.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/chunklist.m3u8
 #EXTINF:-1 tvg-id="haiphong1022" group-title="🇻🇳 📻 | Địa phương" tvg-logo="https://i.imgur.com/8GnSK5u.png",THP Radio | Báo và Phát thanh – Truyền hình Hải Phòng (FM 102.2MHz)
@@ -119,81 +119,3 @@ https://d4.dhcn.vn/hls/bth_pt/audio/index.m3u8
 https://luuchieu.truyenhinhso.vn/media/live/EDBFCBB8687FE7589B3CDFEB/index.m3u8
 #EXTINF:-1 tvg-id="thainguyenradio" group-title="🇻🇳 📻 | Địa phương" tvg-logo="https://i.imgur.com/YkJAX85.png",VOT Radio | Báo và Phát thanh – Truyền hình Thái Nguyên (FM 99.3 – 102.1 – 106.5MHz)
 https://radio.thainguyentv.vn/hls/livestream.m3u8
-#-------------------🇬🇧 📻 | Vương quốc Anh-------------------#
-#EXTINF:-1 tvg-id="" group-title="🇬🇧 📻 | Vương quốc Anh" tvg-logo="https://i.imgur.com/58p1MoQ.png",BBC Asian Network
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_asian_network.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇬🇧 📻 | Vương quốc Anh" tvg-logo="https://i.imgur.com/rcLFg18.png",BBC World Service
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_world_service.mpd
-#EXTINF:-1 tvg-id="" group-title="🇬🇧 📻 | Vương quốc Anh" tvg-logo="https://i.imgur.com/Gf1SHvO.png",BBC Radio 1
-https://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.norewind.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇬🇧 📻 | Vương quốc Anh" tvg-logo="https://i.imgur.com/kapyqy3.png",BBC Radio 1 Anthems
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_one_anthems.mpd
-#EXTINF:-1 tvg-id="" group-title="🇬🇧 📻 | Vương quốc Anh" tvg-logo="https://i.imgur.com/COYQeMG.png",BBC Radio 1 Dance
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_one_dance.mpd
-#EXTINF:-1 tvg-id="" group-title="🇬🇧 📻 | Vương quốc Anh" tvg-logo="https://i.imgur.com/JuoSFEn.png",BBC Radio 1 Xtra
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_1xtra.mpd
-#EXTINF:-1 tvg-id="" group-title="🇬🇧 📻 | Vương quốc Anh" tvg-logo="https://i.imgur.com/XnMro4u.png",BBC Radio 2
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_two.mpd
-#EXTINF:-1 tvg-id="" group-title="🇬🇧 📻 | Vương quốc Anh" tvg-logo="https://i.imgur.com/FEEnW63.png",BBC Radio 3
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_three.mpd
-#EXTINF:-1 tvg-id="" group-title="🇬🇧 📻 | Vương quốc Anh" tvg-logo="https://i.imgur.com/uOEzjIC.png",BBC Radio 3 Unwind
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_three_unwind.mpd
-#EXTINF:-1 tvg-id="" group-title="🇬🇧 📻 | Vương quốc Anh" tvg-logo="https://i.imgur.com/80mFghS.png",BBC Radio 4
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_fourfm.mpd
-#EXTINF:-1 tvg-id="" group-title="🇬🇧 📻 | Vương quốc Anh" tvg-logo="https://i.imgur.com/CRX4Ui3.png",BBC Radio 4 Extra
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_four_extra.mpd
-#EXTINF:-1 tvg-id="" group-title="🇬🇧 📻 | Vương quốc Anh" tvg-logo="https://i.imgur.com/geVLeqF.png",BBC Radio 5 Live
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_five_live.mpd
-#EXTINF:-1 tvg-id="" group-title="🇬🇧 📻 | Vương quốc Anh" tvg-logo="https://i.imgur.com/BRK3yVL.png",BBC Radio 5 Sports Extra
-
-#EXTINF:-1 tvg-id="" group-title="🇬🇧 📻 | Vương quốc Anh" tvg-logo="https://i.imgur.com/BRK3yVL.png",BBC Radio 5 Sports Extra 2
-
-#EXTINF:-1 tvg-id="" group-title="🇬🇧 📻 | Vương quốc Anh" tvg-logo="https://i.imgur.com/BRK3yVL.png",BBC Radio 5 Sports Extra 3
-
-#EXTINF:-1 tvg-id="" group-title="🇬🇧 📻 | Vương quốc Anh" tvg-logo="https://i.imgur.com/QVlYtmZ.png",BBC Radio 6 Music
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_6music.mpd
-#EXTINF:-1 tvg-id="" group-title="🇬🇧 📻 | Vương quốc Anh" tvg-logo="https://i.imgur.com/nGdZiKD.png",BBC Radio 6 Indie Forever
-
-#-------------------🇭🇰 – 🇨🇳 📻 | Hồng Kông-------------------#
-#EXTINF:-1 tvg-id="" group-title="🇭🇰 – 🇨🇳 📻 | Hồng Kông" tvg-logo="https://i.imgur.com/AhV4gqg.png",RTHK Radio 1
-https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇭🇰 – 🇨🇳 📻 | Hồng Kông" tvg-logo="https://i.imgur.com/PiQSqBh.png",RTHK Radio 2
-https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇭🇰 – 🇨🇳 📻 | Hồng Kông" tvg-logo="https://i.imgur.com/5vJmSd6.png",RTHK Radio 3
-https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇭🇰 – 🇨🇳 📻 | Hồng Kông" tvg-logo="https://i.imgur.com/FVf4CSD.png",RTHK Radio 4
-https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇭🇰 – 🇨🇳 📻 | Hồng Kông" tvg-logo="https://i.imgur.com/WLiDGE5.png",RTHK Radio 5
-https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇭🇰 – 🇨🇳 📻 | Hồng Kông" tvg-logo="https://i.imgur.com/g1DoeMg.png",RTHK Radio 6 (CNR Hong Kong Radio)
-https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇭🇰 – 🇨🇳 📻 | Hồng Kông" tvg-logo="https://i.imgur.com/1TA2dbS.png",RTHK Putonghua Channel 
-https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇭🇰 – 🇨🇳 📻 | Hồng Kông" tvg-logo="https://i.imgur.com/bEP9yMq.png",RTHK Radio The Greater Bay (CMG Radio The Greater Bay)
-https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/master.m3u8
-#-------------------🇸🇬 📻 | Singapore-------------------#
-#EXTINF:-1 tvg-id="" group-title="🇸🇬 📻 | Singapore" tvg-logo="https://i.imgur.com/ywHoXqF.png",Mediacorp 987
-https://22893.live.streamtheworld.com/987FM_PREM.aac
-#EXTINF:-1 tvg-id="" group-title="🇸🇬 📻 | Singapore" tvg-logo="https://i.imgur.com/dRvMAYD.png",Mediacorp Capital 958
-https://28453.live.streamtheworld.com/CAPITAL958FM_PREM.aac
-#EXTINF:-1 tvg-id="" group-title="🇸🇬 📻 | Singapore" tvg-logo="https://i.imgur.com/zfjEViC.png",Mediacorp Class 95
-https://28383.live.streamtheworld.com/CLASS95_PREM.aac
-#EXTINF:-1 tvg-id="" group-title="🇸🇬 📻 | Singapore" tvg-logo="https://i.imgur.com/4UDqPXk.png",Mediacorp CNA938
-https://28393.live.streamtheworld.com/938NOW_PREM.aac
-#EXTINF:-1 tvg-id="" group-title="🇸🇬 📻 | Singapore" tvg-logo="https://i.imgur.com/9RfloBe.png",Mediacorp GOLD 905
-https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC.aac
-#EXTINF:-1 tvg-id="" group-title="🇸🇬 📻 | Singapore" tvg-logo="https://i.imgur.com/aY4tRWk.png",Mediacorp LOVE 972
-https://28453.live.streamtheworld.com/LOVE972FM_PREM.aac
-#EXTINF:-1 tvg-id="" group-title="🇸🇬 📻 | Singapore" tvg-logo="https://i.imgur.com/JtHFvgj.png",Mediacorp Oil 968
-https://22393.live.streamtheworld.com/OLI968FM_PREM.aac
-#EXTINF:-1 tvg-id="" group-title="🇸🇬 📻 | Singapore" tvg-logo="https://i.imgur.com/OPeXUYm.png",Mediacorp RIA 897
-https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac
-#EXTINF:-1 tvg-id="" group-title="🇸🇬 📻 | Singapore" tvg-logo="https://i.imgur.com/HsxiIJ7.png",Mediacorp Symphony 924
-https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924AAC.aac
-#EXTINF:-1 tvg-id="" group-title="🇸🇬 📻 | Singapore" tvg-logo="https://i.imgur.com/TlFUajO.png",Mediacorp Warna 942
-https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac
-#EXTINF:-1 tvg-id="" group-title="🇸🇬 📻 | Singapore" tvg-logo="https://i.imgur.com/iVKFfha.png",Mediacorp YES 933
-https://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC.aac
-#-------------------🇱🇦 📻 | Lào-------------------#
-#EXTINF:-1 tvg-id="" group-title="🇱🇦 📻 | Lào" tvg-logo="https://i.imgur.com/8LWGzC4.png",Lao National Radio 1 (AM 567KHz & FM 94 – 103.7MHz)
-https://radio.lnr.org.la/fm103
