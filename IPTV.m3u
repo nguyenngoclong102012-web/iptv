@@ -726,7 +726,7 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58b949986ed13294bc01b0f330abc527:23e8c5f2fe202906ac2d6554d9527299
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
-#EXTINF:-1 tvg-id="cbeebies" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/6FHpxyF.png",BBC CBeebies
+#EXTINF:-1 tvg-id="cbeebies" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/fxcNPhd.png",BBC CBeebies
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -740,7 +740,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
 #EXTINF:-1 tvg-id="arirang" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/4F9sO6R.png",Arirang
 https://live.fptplay53.net/fnxhd1/airanghd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="bloomberg" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/KWY1Xnq.png",Bloomberg
+#EXTINF:-1 tvg-id="bloomberg" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/FbOtIzd.png",Bloomberg
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -758,7 +758,7 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
 https://freem3u.xyz/api/live/play.m3u8?vid=112
 #EXTINF:-1 tvg-id="tv5monde" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/8hk3Uy1.png",TV5Monde Asie
 https://freem3u.xyz/api/live/play.m3u8?vid=9852
-#EXTINF:-1 tvg-id="dw" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/i1W70hE.png",DW
+#EXTINF:-1 tvg-id="dw" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/vLTgPxs.png",DW
 https://freem3u.xyz/api/live/play.m3u8?vid=109
 #EXTINF:-1 tvg-id="davinci" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/5ce2AXF.png",Da Vinci
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
@@ -778,7 +778,7 @@ https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec6f072c7125377a9bc0ae61598095f4:1d5388e0781415ebcec9914f5ad75875
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
-#EXTINF:-1 tvg-id="discoveryhd" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/THYTN7b.png",Discovery
+#EXTINF:-1 tvg-id="discoveryhd" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/xN36i7F.png",Discovery
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -790,7 +790,7 @@ https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
-#EXTINF:-1 tvg-id="axnhd" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/0qfptuC.png",AXN
+#EXTINF:-1 tvg-id="axnhd" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/vdtRYO7.png",AXN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -812,7 +812,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a09a73ec1dc348584e2f130e27da667:06f8d1a6feaffbdab92adf347e7b469c
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
-#EXTINF:-1 tvg-id="fashionhd" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/gQ3mjnO.png",Fashion TV
+#EXTINF:-1 tvg-id="fashionhd" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/LJJ2tFe.png",Fashion TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -826,7 +826,7 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6908629732639ada4814a6208296d9c:7ca9bf03623f77b5e2f16df0b53f274d
 https://s129135.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
-#EXTINF:-1 tvg-id="warnertvhd" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/lFkmCwP.png",Warner TV
+#EXTINF:-1 tvg-id="warnertvhd" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/PKjRYwD.png",Warner TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
