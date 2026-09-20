@@ -825,6 +825,8 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
 #EXTINF:-1 tvg-id="kix" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/OGTLEJB.png",KIX
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="lovenature4k" group-title="🌏 | Quốc Tế" tvg-logo="https://epg.io.vn/schedule/image.php?url=https%3A%2F%2Flinear-poster.astro.com.my%2Fprod%2Fposter%2FLoveNature4K_2025_IVP_LAND_1280x720.jpg&w=1280",Love Nature 4K
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/uIWBfu3.png",TLC
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
