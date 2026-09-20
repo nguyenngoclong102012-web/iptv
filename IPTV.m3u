@@ -839,3 +839,61 @@ https://livevliatmcdw.seenow.vn/live/data8/SKSS1/Live_DASHDRM/SKSS1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
 https://livevliatmcdw.seenow.vn/live/data8/SKSS2/Live_DASHDRM/SKSS2.mpd
+#-------------------⚽ | Thể thao Quốc Tế-------------------#
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/Vtk2cGI.png",beIN Sports 1 (Đông Nam Á – Hồng Kông và Úc)
+http://weaseltv.live/play/live.php?mac=00:1B:79:FA:1E:32&stream=2065816&extension=ts&play_token=w75djlbi9G
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/vUJZSvs.png",beIN Sports 2 (Đông Nam Á – Hồng Kông và Úc)
+http://weaseltv.live/play/live.php?mac=00:1B:79:FA:1E:32&stream=2065815&extension=ts&play_token=9fg26IILHf
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/UYSMao3.png",beIN Sports 3 (Đông Nam Á – Hồng Kông và Úc)
+http://weaseltv.live/play/live.php?mac=00:1B:79:FA:1E:32&stream=2065814&extension=ts&play_token=NRzVFnYy3y
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/wC1Itvj.png",CCTV Billiards (Trung Quốc)
+http://107.150.60.122/live/ystq.m3u8
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/oAerzIR.png",CCTV Golf & Tennis (Trung Quốc)
+http://107.150.60.122/live/gefwq.m3u8
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/5JZYZHp.png",CCTV Strom Football (Trung Quốc)
+http://107.150.60.122/live/fyzq.m3u8
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/BQ2Lvoa.png",CCTV–5 (Trung Quốc)
+http://107.150.60.122/live/cctv5hd.m3u8
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/gVuvoOX.png",CCTV–5+ (Trung Quốc)
+http://107.150.60.122/live/cctv5p.m3u8
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/ypqPFJT.png",CCTV–16 (Trung Quốc)
+http://107.150.60.122/live/cctv16hd.m3u8
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/tCLrzsZ.png",MONOMAX Sports TV (Thái Lan)
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/tdarg2p.png",Sky Sports+ (Vương quốc Anh)
+
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/CxYDu0x.png",Sky Sports Action (Vương quốc Anh)
+
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/hS7tAXZ.png",Sky Sports Cricket (Vương quốc Anh)
+
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/Zek15oN.png",Sky Sports F1 (Vương quốc Anh)
+http://weaseltv.live/play/live.php?mac=00:1B:79:FA:1E:32&stream=1917634&extension=ts&play_token=G2HPloVotd
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/Zek15oN.png",Sky Sports F1 UHD (Vương quốc Anh)
+
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/VBASXDF.png",Sky Sports Football (Vương quốc Anh)
+
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/6Xg4o7u.png",Sky Sports Golf (Vương quốc Anh)
+
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/10keqTG.png",Sky Sports Main Event (Vương quốc Anh)
+
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/10keqTG.png",Sky Sports Main Event UHD (Vương quốc Anh)
+http://weaseltv.live:80/play/live.php?mac=00:1B:79:FA:1E:32&stream=1608071&extension=ts&play_token=ZZKu989GGq
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/1mG3N5L.png",Sky Sports Mix (Vương quốc Anh)
+
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/5JXKA9Q.png",Sky Sports News (Vương quốc Anh)
+
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/M6du2y4.png",Sky Sports Premier League (Vương quốc Anh)
+
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/g9kuxXA.png",Sky Sports Racing (Vương quốc Anh)
+
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/NH6Ef1u.png",Sky Sports Tennis (Vương quốc Anh)
+
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/q7LkvJC.png",TNT Sports 1 (Vương quốc Anh)
+
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/X6oMzZ8.png",TNT Sports 2 (Vương quốc Anh)
+
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/afpzTs6.png",TNT Sports 3 (Vương quốc Anh)
+
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/LpWThxy.png",TNT Sports 4 (Vương quốc Anh)
+
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/fAyvqdH.png",TNT Sports Ultimate UHD (Vương quốc Anh)
