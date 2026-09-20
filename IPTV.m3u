@@ -467,7 +467,7 @@ https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae
 https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd
-#EXTINF:-1 tvg-id="woman" group-title="🇻🇳 | VTVcab - InTheBOX.TV" tvg-logo="https://i.imgur.com/KUF9Pgr.png",VTVcab c InTheBOX.TV | Woman
+#EXTINF:-1 tvg-id="woman" group-title="🇻🇳 | VTVcab - InTheBOX.TV" tvg-logo="https://i.imgur.com/KUF9Pgr.png",VTVcab – InTheBOX.TV | Woman
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
