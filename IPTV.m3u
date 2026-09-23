@@ -576,9 +576,9 @@ https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd
 https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/WO/manifest.mpd
 #-------------------🇻🇳 | MyTV (VNPT) – SPOTV-------------------#
 #EXTINF:-1 tvg-id="spotv1" group-title="🇻🇳 | MyTV (VNPT) - SPOTV" tvg-logo="https://i.imgur.com/Lt4nPi8.png",SPOTV
-https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/EBU_Colorbars_HD.svg/1920px-EBU_Colorbars_HD.svg.png
+http://weaseltv.live:80/play/live.php?mac=00:1B:79:FA:1E:32&stream=941564&extension=ts&play_token=ChXjI5XkDP
 #EXTINF:-1 tvg-id="spotv2" group-title="🇻🇳 | MyTV (VNPT) - SPOTV" tvg-logo="https://i.imgur.com/3Du3dND.png",SPOTV2
-https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/EBU_Colorbars_HD.svg/1920px-EBU_Colorbars_HD.svg.png
+http://weaseltv.live:80/play/live.php?mac=00:1B:79:FA:1E:32&stream=941563&extension=ts&play_token=Gw0Acppwfj
 #-------------------🇻🇳 | SCTV-------------------#
 #EXTINF:-1 tvg-id="sctv1hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/e5bB5au.png",SCTV1 
 https://vmttv.dpdns.org/VTVGo/?sctv1
