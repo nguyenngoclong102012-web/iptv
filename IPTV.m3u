@@ -37,11 +37,11 @@ https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=593abb95b362434f812e42e7780779b0:dd7e80e1d618d69631f21d04423dcab7
 https://tglmp02.akamaized.net/out/v1/3b1dd652def14c0d88ad4d65b8a63103/manifest.mpd
 #-------------------⚽ | Thể thao Quốc Tế-------------------#
-#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/Vtk2cGI.png",beIN Sports 1 (Đông Nam Á – Hồng Kông và Úc)
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/Vtk2cGI.png",beIN Sports 1 (Đông Nam Á & Hồng Kông)
 http://weaseltv.live/play/live.php?mac=00:1B:79:FA:1E:32&stream=2065816&extension=ts&play_token=w75djlbi9G
-#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/vUJZSvs.png",beIN Sports 2 (Đông Nam Á – Hồng Kông và Úc)
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/vUJZSvs.png",beIN Sports 2 (Đông Nam Á & Hồng Kông)
 http://weaseltv.live/play/live.php?mac=00:1B:79:FA:1E:32&stream=2065815&extension=ts&play_token=9fg26IILHf
-#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/UYSMao3.png",beIN Sports 3 (Đông Nam Á – Hồng Kông và Úc)
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/UYSMao3.png",beIN Sports 3 (Đông Nam Á & Hồng Kông)
 http://weaseltv.live/play/live.php?mac=00:1B:79:FA:1E:32&stream=2065814&extension=ts&play_token=NRzVFnYy3y
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/wC1Itvj.png",CCTV Billiards (Trung Quốc)
 http://107.150.60.122/live/ystq.m3u8
