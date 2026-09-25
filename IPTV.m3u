@@ -43,6 +43,8 @@ http://weaseltv.live:80/play/live.php?mac=00:1B:79:FA:1E:32&stream=2065816&exten
 http://weaseltv.live:80/play/live.php?mac=00:1B:79:FA:1E:32&stream=646976&extension=ts&play_token=S2r47Wv6d0
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/UYSMao3.png",beIN Sports 3 (Đông Nam Á & Hồng Kông)
 http://weaseltv.live:80/play/live.php?mac=00:1B:79:FA:1E:32&stream=646975&extension=ts&play_token=IG0GTjnGeP
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/mpVU9PQ.png",F1 TV (Quốc tế)
+http://weaseltv.live:80/play/live.php?mac=00:1B:79:FA:1E:32&stream=1920277&extension=ts&play_token=ypXWfSW7CE
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/tCLrzsZ.png",MONOMAX Sports TV (Thái Lan)
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/tdarg2p.png",Sky Sports+ FHD (Vương quốc Anh)
