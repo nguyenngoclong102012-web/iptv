@@ -38,11 +38,11 @@ https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.m
 https://tglmp02.akamaized.net/out/v1/3b1dd652def14c0d88ad4d65b8a63103/manifest.mpd
 #-------------------⚽ | Thể thao Quốc Tế-------------------#
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/Vtk2cGI.png",beIN Sports 1 (Đông Nam Á & Hồng Kông)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=828072&extension=ts&play_token=yBr4ArUG3h
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/vUJZSvs.png",beIN Sports 2 (Đông Nam Á & Hồng Kông)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=828071&extension=ts&play_token=KTVWy2W7Lj
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/UYSMao3.png",beIN Sports 3 (Đông Nam Á & Hồng Kông)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=828070&extension=ts&play_token=NCJAY1VsIv
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/wC1Itvj.png",CCTV Billiards (Trung Quốc)
 http://107.150.60.122/live/ystq.m3u8
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/oAerzIR.png",CCTV Golf & Tennis (Trung Quốc)
@@ -56,89 +56,71 @@ http://107.150.60.122/live/cctv5p.m3u8
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/ypqPFJT.png",CCTV–16 (Trung Quốc)
 http://107.150.60.122/live/cctv16hd.m3u8
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.ibb.co/G4zVGddt/Hub-Premier1.png",Hub Premier 1 (Singapore)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=827982&extension=ts&play_token=5dQMKiBJgz
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/mrZwamR.png",Hub Premier 2 (Singapore)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=827981&extension=ts&play_token=a7BX34UoyS
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/0A6bP0g.png",Hub Premier 3 (Singapore)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=827979&extension=ts&play_token=EcZQ9vH3VP
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/RTgyfAe.png",Hub Premier 4 (Singapore)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=827978&extension=ts&play_token=Yaj8DYgZWJ
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/XhX3oUI.png",Hub Premier 5 (Singapore)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=827977&extension=ts&play_token=nGlHEBJdoi
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/9F7wNgI.png",Hub Premier 6 (Singapore)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=827976&extension=ts&play_token=ICKCZHMRX4
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/bVOyKEV.png",Hub Premier 7 (Singapore)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=827975&extension=ts&play_token=c3CKiVZo9c
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/stYijJ1.png",Hub Premier 8 (Singapore)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=827974&extension=ts&play_token=VRtW99yjdt
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/TN8HGea.png",Hub Premier 9 (Singapore)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=827973&extension=ts&play_token=dtxlRhOh3e
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/h1jaQqc.png",Hub Premier 10 (Singapore)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=827972&extension=ts&play_token=L1H4SUZpAh
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/l0rGLan.png",Hub Premier 11 (Singapore)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=827971&extension=ts&play_token=shRI6cdQ0o
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/tCLrzsZ.png",MONOMAX Sports TV (Thái Lan)
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
-#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/ThJHEuN.png",Sky Sport 1 (New Zealand)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:D1:29:68&stream=1424318&extension=ts&play_token=dZw1emgvEH
-#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/cu8yB69.png",Sky Sport 2 (New Zealand)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:D1:29:68&stream=1424317&extension=ts&play_token=bg4N6sWQEz
-#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/XYp3Ua3.png",Sky Sport 3 (New Zealand)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:D1:29:68&stream=1424316&extension=ts&play_token=VlvOgAwZlk
-#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/KUXs7SQ.png",Sky Sport 4 (New Zealand)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:D1:29:68&stream=1424315&extension=ts&play_token=7xXc65l8jK
-#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/xgpKcYh.png",Sky Sport 5 (New Zealand)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:D1:29:68&stream=1424314&extension=ts&play_token=VastbELnTN
-#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/nyjD1dU.png",Sky Sport 6 (New Zealand)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:D1:29:68&stream=1424313&extension=ts&play_token=BH3nm6QK3h
-#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/iuTNWh4.png",Sky Sport 7 (New Zealand)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:D1:29:68&stream=1424312&extension=ts&play_token=v9DX9xZDPu
-#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/8YjqlRv.png",Sky Sport 8 | Sky Sport Premier League (New Zealand)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:D1:29:68&stream=1424311&extension=ts&play_token=dm7M9oF84V
-#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/9fLRHSg.png",Sky Sport 9 (New Zealand)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:D1:29:68&stream=1424310&extension=ts&play_token=MacO9WyHq0
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/tdarg2p.png",Sky Sports+ FHD (Vương quốc Anh)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=577944&extension=ts&play_token=m75PK4Bv1W
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/J2DdNDZ.png",Sky Sports UHD 1 (Vương quốc Anh)
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:D1:29:68&stream=1905869&extension=ts&play_token=mmm0Rp919n
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/J2DdNDZ.png",Sky Sports UHD 2 (Vương quốc Anh)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=1284556&extension=ts&play_token=Ejbh3Ve8ri
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/CxYDu0x.png",Sky Sports Action FHD (Vương quốc Anh)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=726827&extension=ts&play_token=N8Qyd7Bgfb
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/hS7tAXZ.png",Sky Sports Cricket FHD (Vương quốc Anh)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=577991&extension=ts&play_token=OOhpxYYG0C
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/Zek15oN.png",Sky Sports F1 FHD (Vương quốc Anh)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=1134459&extension=ts&play_token=natU7O2GRO
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/Zek15oN.png",Sky Sports F1 UHD (Vương quốc Anh)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=1284555&extension=ts&play_token=NcNuDir5o2
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/VBASXDF.png",Sky Sports Football FHD (Vương quốc Anh)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=577995&extension=ts&play_token=KPiUKbtEMr
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/6Xg4o7u.png",Sky Sports Golf FHD (Vương quốc Anh)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=577971&extension=ts&play_token=iUgwWPF9Wx
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/10keqTG.png",Sky Sports Main Event FHD (Vương quốc Anh)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=577978&extension=ts&play_token=E8alxhO9AY
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/10keqTG.png",Sky Sports Main Event UHD (Vương quốc Anh)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=577997&extension=ts&play_token=zbhglX5LPe
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/1mG3N5L.png",Sky Sports Mix FHD (Vương quốc Anh)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=577989&extension=ts&play_token=qjOwrKo2oL
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/5JXKA9Q.png",Sky Sports News FHD (Vương quốc Anh)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=577994&extension=ts&play_token=spiVCiJgw2
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/M6du2y4.png",Sky Sports Premier League FHD (Vương quốc Anh)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=577994&extension=ts&play_token=spiVCiJgw2
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/g9kuxXA.png",Sky Sports Racing FHD (Vương quốc Anh)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=577968&extension=ts&play_token=CbyJuo0ZJG
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/NH6Ef1u.png",Sky Sports Tennis FHD (Vương quốc Anh)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=1089330&extension=ts&play_token=P1kLBcz2vl
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/q7LkvJC.png",TNT Sports 1 (Vương quốc Anh)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=578001&extension=ts&play_token=vLU0ESiXGY
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/X6oMzZ8.png",TNT Sports 2 (Vương quốc Anh)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=578000&extension=ts&play_token=2UqcZxKPcX
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/afpzTs6.png",TNT Sports 3 (Vương quốc Anh)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=577999&extension=ts&play_token=j0E4ZJs6Y6
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/LpWThxy.png",TNT Sports 4 (Vương quốc Anh)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=782732&extension=ts&play_token=zDPuxo76kP
+
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/VWiVCGD.png",TNT Sports Ultimate UHD (Vương quốc Anh)
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:A1:F6:50&stream=1284551&extension=ts&play_token=9YBjB2TfQl
+
 #-------------------🔴 | TV360 - Sự kiện trực tiếp-------------------#
 #EXTINF:-1 tvg-id="tv360plus1" group-title="🔴 | TV360 - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/p9uXNyF.png",TV360+ 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
