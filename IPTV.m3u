@@ -828,8 +828,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=10007
 https://freem3u.xyz/api/live/play.m3u8?vid=213
 #EXTINF:-1 tvg-id="nhkworld" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/SfM6WM7.png",NHK World-Japan
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/4ESi2La.png",NHK World Premium
-https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/KOEl5pp.png",Animal Planet
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
