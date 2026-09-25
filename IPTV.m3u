@@ -89,6 +89,21 @@ http://weaseltv.live:80/play/live.php?mac=00:1B:79:FA:1E:32&stream=1458665&exten
 http://weaseltv.live:80/play/live.php?mac=00:1B:79:FA:1E:32&stream=1458815&extension=ts&play_token=SeNLdlbWZV
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/VWiVCGD.png",TNT Sports Ultimate UHD (Vương quốc Anh)
 http://weaseltv.live:80/play/live.php?mac=00:1B:79:FA:1E:32&stream=1479591&extension=ts&play_token=oxmcJEQW4U
+#-------------------🔴 | MyTV (VNPT) - Sự kiện trực tiếp-------------------#
+#EXTINF:-1 tvg-id="mytv801" group-title="🔴 | MyTV (VNPT) - Sự kiện trực tiếp" tvg-logo="",MyTV 801
+
+#EXTINF:-1 tvg-id="mytv802" group-title="🔴 | MyTV (VNPT) - Sự kiện trực tiếp" tvg-logo="",MyTV 802
+
+#EXTINF:-1 tvg-id="mytv803" group-title="🔴 | MyTV (VNPT) - Sự kiện trực tiếp" tvg-logo="",MyTV 803
+
+#EXTINF:-1 tvg-id="mytv804" group-title="🔴 | MyTV (VNPT) - Sự kiện trực tiếp" tvg-logo="",MyTV 804
+
+#EXTINF:-1 tvg-id="mytv806" group-title="🔴 | MyTV (VNPT) - Sự kiện trực tiếp" tvg-logo="",MyTV 806
+
+#EXTINF:-1 tvg-id="mytv903" group-title="🔴 | MyTV (VNPT) - Sự kiện trực tiếp" tvg-logo="",MyTV 903
+
+#EXTINF:-1 tvg-id="mytv904" group-title="🔴 | MyTV (VNPT) - Sự kiện trực tiếp" tvg-logo="",MyTV 904
+
 #-------------------🔴 | TV360 - Sự kiện trực tiếp-------------------#
 #EXTINF:-1 tvg-id="tv360plus1" group-title="🔴 | TV360 - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/p9uXNyF.png",TV360+ 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
