@@ -907,17 +907,17 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 https://freem3u.xyz/api/live/play.m3u8?vid=99
 #-------------------📻 | VOV-------------------#
 #EXTINF:-1 tvg-id="vov1" group-title="📻 | VOV" tvg-logo="https://i.imgur.com/hSX6Hg7.png",VOV1
-https://audio-lss.vov.vn/live/vov1.m3u8
+https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov2" group-title="📻 | VOV" tvg-logo="https://i.imgur.com/B5CXeDu.png",VOV2
-https://audio-lss.vov.vn/live/vov2.m3u8
+https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov3" group-title="📻 | VOV" tvg-logo="https://i.imgur.com/BqW9xnj.png",VOV3
-https://audio-lss.vov.vn/live/vov3.m3u8
+https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov4tb" group-title="📻 | VOV" tvg-logo="https://i.imgur.com/8zbIpps.png",VOV4 Tây Bắc
 
 #EXTINF:-1 tvg-id="vov4tb" group-title="📻 | VOV" tvg-logo="https://i.imgur.com/8zbIpps.png",VOV4 Đông Bắc
 
 #EXTINF:-1 tvg-id="vov4mt" group-title="📻 | VOV" tvg-logo="https://i.imgur.com/8zbIpps.png",VOV4 Miền Trung
-https://audio-lss.vov.vn/live/vov4.m3u8
+
 #EXTINF:-1 tvg-id="vov4tn" group-title="📻 | VOV" tvg-logo="https://i.imgur.com/8zbIpps.png",VOV4 Tây Nguyên
 
 #EXTINF:-1 tvg-id="vov4hcm" group-title="📻 | VOV" tvg-logo="https://i.imgur.com/8zbIpps.png",VOV4 Hồ Chí Minh
@@ -925,15 +925,15 @@ https://audio-lss.vov.vn/live/vov4.m3u8
 #EXTINF:-1 tvg-id="vov4scl" group-title="📻 | VOV" tvg-logo="https://i.imgur.com/8zbIpps.png",VOV4 Đồng bằng Sông Cửu Long
 
 #EXTINF:-1 tvg-id="vov5" group-title="📻 | VOV" tvg-logo="https://i.imgur.com/xEpYV75.png",VOV5
-https://audio-lss.vov.vn/live/vov5.m3u8
+https://str.vov.gov.vn/vovlive/vov5.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov247" group-title="📻 | VOV" tvg-logo="https://i.imgur.com/7QtCtPd.png",VOV English 24/7
-https://audio-lss.vov.vn/live/vov24_7.m3u8
+https://str.vov.gov.vn/vovlive/vov247vov5English.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgthn" group-title="📻 | VOV" tvg-logo="https://i.imgur.com/wBHkJao.png",VOV Giao thông Hà Nội
-https://audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8
+https://play.vovgiaothong.vn/live/gthn3/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgthcm" group-title="📻 | VOV" tvg-logo="https://i.imgur.com/wBHkJao.png",VOV Giao thông TP. Hồ Chí Minh
-https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
+https://play.vovgiaothong.vn/live/gthcm3/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgtmekong" group-title="📻 | VOV" tvg-logo="https://i.imgur.com/9bQvnpA.png",VOV Giao thông Mekong
-https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
+https://play.vovgiaothong.vn/live/mekong3/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgtduyenhai" group-title="📻 | VOV" tvg-logo="https://i.imgur.com/p4Zxo8v.png",VOV Giao thông Duyên Hải
 https://play.vovgiaothong.vn/live/duyenhai2/playlist.m3u8
 #-------------------📻 | VOH-------------------#
