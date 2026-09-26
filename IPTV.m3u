@@ -913,17 +913,17 @@ https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov3" group-title="📻 | VOV" tvg-logo="https://i.imgur.com/BqW9xnj.png",VOV3
 https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov4tb" group-title="📻 | VOV" tvg-logo="https://i.imgur.com/8zbIpps.png",VOV4 Tây Bắc
-
+http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="vov4tb" group-title="📻 | VOV" tvg-logo="https://i.imgur.com/8zbIpps.png",VOV4 Đông Bắc
-
+http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="vov4mt" group-title="📻 | VOV" tvg-logo="https://i.imgur.com/8zbIpps.png",VOV4 Miền Trung
-
+http://media.kythuatvov.vn:1936/live/VOV4_MT.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="vov4tn" group-title="📻 | VOV" tvg-logo="https://i.imgur.com/8zbIpps.png",VOV4 Tây Nguyên
-
+https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov4hcm" group-title="📻 | VOV" tvg-logo="https://i.imgur.com/8zbIpps.png",VOV4 Hồ Chí Minh
-
+http://media.kythuatvov.vn:1936/live/VOV4_HCM.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="vov4scl" group-title="📻 | VOV" tvg-logo="https://i.imgur.com/8zbIpps.png",VOV4 Đồng bằng Sông Cửu Long
-
+http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="vov5" group-title="📻 | VOV" tvg-logo="https://i.imgur.com/xEpYV75.png",VOV5
 https://str.vov.gov.vn/vovlive/vov5.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov247" group-title="📻 | VOV" tvg-logo="https://i.imgur.com/7QtCtPd.png",VOV English 24/7
