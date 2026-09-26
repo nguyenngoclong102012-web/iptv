@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.io.vn/epgc.xml"
+#EXTM3U url-tvg="https://epg.io.vn/epg.xml"
 #-------------------🔴 | 20th Asian Games Aichi-Nagoya 2026-------------------#
 #EXTINF:-1 group-title="🔴 | 20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://i.imgur.com/NZezACp.jpeg",Mediacorp | Asian Games CH01
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
