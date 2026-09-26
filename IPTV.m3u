@@ -952,10 +952,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=10037
 https://tv.angiangtv.vn/live/kgtv3/kgtv3.m3u8
 #EXTINF:-1 tvg-id="hatinhradio" group-title="📻 | Địa phương" tvg-logo="https://i.imgur.com/Qf95UnB.png",BHT Radio | Báo và Phát thanh – Truyền hình Hà Tĩnh (FM 97.8MHz)
 https://cohauw9bgpvod.vcdn.cloud/voht/index.m3u8?_t=1786168738641
-#EXTINF:-1 tvg-id="khanhhoaradio2" group-title="📻 | Địa phương" tvg-logo="https://i.imgur.com/grX68M1.png",BKH Radio | Báo và Phát thanh – Truyền hình Khánh Hòa (FM 95MHz)
-https://cdnbaokhanhhoa.com/live/feb79f5c374d.m3u8?vhost=audio
-#EXTINF:-1 tvg-id="khanhhoaradio" group-title="📻 | Địa phương" tvg-logo="https://i.imgur.com/vB3msEK.png",BKH Radio | Báo và Phát thanh – Truyền hình Khánh Hòa (FM 106.5MHz)
+#EXTINF:-1 tvg-id="khanhhoaradio" group-title="📻 | Địa phương" tvg-logo="https://i.imgur.com/vB3msEK.png",BKH Radio 1 | Báo và Phát thanh – Truyền hình Khánh Hòa (FM 106.5MHz)
 https://cdnbaokhanhhoa.com/live/fdb4128cecf1.m3u8?vhost=audio
+#EXTINF:-1 tvg-id="khanhhoaradio2" group-title="📻 | Địa phương" tvg-logo="https://i.imgur.com/grX68M1.png",BKH Radio 2 | Báo và Phát thanh – Truyền hình Khánh Hòa (FM 95MHz)
+https://cdnbaokhanhhoa.com/live/feb79f5c374d.m3u8?vhost=audio
 #EXTINF:-1 tvg-id="bacninhradio" group-title="📻 | Địa phương" tvg-logo="https://i.imgur.com/CJNDG0C.png",BTV Radio | Báo và Phát thanh – Truyền hình TP. Bắc Ninh (FM 98.4MHz)
 https://live.mediatech.vn/live/285acd5e43b501e4c21b0af4e55810625c8/chunklist.m3u8
 #EXTINF:-1 tvg-id="canthoradio1" group-title="📻 | Địa phương" tvg-logo="https://i.imgur.com/gknqgVb.png",CầnThơ Radio 1 | Báo và Phát thanh – Truyền hình TP. Cần Thơ (FM 97.3MHz)
