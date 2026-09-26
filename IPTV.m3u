@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://epg.io.vn/epg.xml"
 #-------------------🔴 | FIFA ASEAN Cup 2026-------------------#
-#EXTINF:-1 group-title="🔴 | FIFA ASEAN Cup 2026" tvg-logo="",Mediacorp | meWatch Live 5
+#EXTINF:-1 group-title="🔴 | FIFA ASEAN Cup 2026" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/a/a7/2026_FIFA_ASEAN_Cup.svg/500px-2026_FIFA_ASEAN_Cup.svg.png",ViuTV Six
+https://cdn.qd.je/163189/viu6
+#EXTINF:-1 group-title="🔴 | FIFA ASEAN Cup 2026" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/a/a7/2026_FIFA_ASEAN_Cup.svg/500px-2026_FIFA_ASEAN_Cup.svg.png",Mediacorp | meWatch Live 5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
