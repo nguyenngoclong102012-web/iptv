@@ -1008,7 +1008,7 @@ https://live.baoquangninh.vn/qtvlive/qnr2.m3u8
 https://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/chunklist.m3u8
 #EXTINF:-1 tvg-id="tayninhradio" group-title="📻 | Địa phương" radio=true tvg-logo="https://i.imgur.com/gsypcku.png",TayNinh Radio | Báo và Phát thanh – Truyền hình Tây Ninh (FM 96.9 – 103.1MHz) 
 https://live-hq.evgcdn.net/live/2851dd3d9016ac74d84b0c4a7a659f76891/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="📻 | Địa phương" radio=true tvg-logo="https://i.imgur.com/mKX2aCn.png",THĐT Radio | Báo và Phát thanh – Truyền hình Đồng Tháp (FM 96.2 – 98.4MHz)
+#EXTINF:-1 tvg-id="dongthapradio" group-title="📻 | Địa phương" radio=true tvg-logo="https://i.imgur.com/mKX2aCn.png",THĐT Radio | Báo và Phát thanh – Truyền hình Đồng Tháp (FM 96.2 – 98.4MHz)
 https://618b88f69e53b.streamlock.net/THDTR/thdtradio/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 | Địa phương" radio=true tvg-logo="https://i.imgur.com/VkZpyV7.png",THLC Radio | Báo và Phát thanh – Truyền hình Lào Cai (FM 92.1 – 97MHz)
 https://luuchieu.truyenhinhso.vn/media/live/0183E110869F11DED7E12F49/index.m3u8
