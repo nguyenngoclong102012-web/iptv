@@ -948,8 +948,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=10039
 #EXTINF:-1 tvg-id="voh999" group-title="📻 | VOH" radio=true tvg-logo="https://i.imgur.com/zk7p2CC.png",VOH FM 99.9MHz
 https://freem3u.xyz/api/live/play.m3u8?vid=10037
 #-------------------📻 | Địa phương-------------------#
-#EXTINF:-1 tvg-id="angiangradio1" group-title="📻 | Địa phương" radio=true tvg-logo="https://i.imgur.com/kuMugTq.png",ATV Radio | Báo và Phát thanh – Truyền hình An Giang (FM 93.1 – 99.4MHz)
-https://tv.angiangtv.vn/live/kgtv3/kgtv3.m3u8
+#EXTINF:-1 tvg-id="angiangradio" group-title="📻 | Địa phương" radio=true tvg-logo="https://i.imgur.com/kuMugTq.png",ATV Radio | Báo và Phát thanh – Truyền hình An Giang (FM 93.1 – 99.4MHz)
+https://tv.angiangtv.vn/live/kgaudio/kgaudio.m3u8
 #EXTINF:-1 tvg-id="hatinhradio" group-title="📻 | Địa phương" radio=true tvg-logo="https://i.imgur.com/Qf95UnB.png",BHT Radio | Báo và Phát thanh – Truyền hình Hà Tĩnh (FM 97.8MHz)
 https://cohauw9bgpvod.vcdn.cloud/voht/index.m3u8?_t=1786168738641
 #EXTINF:-1 tvg-id="khanhhoaradio" group-title="📻 | Địa phương" radio=true tvg-logo="https://i.imgur.com/vB3msEK.png",BKH Radio 1 | Báo và Phát thanh – Truyền hình Khánh Hòa (FM 106.5MHz)
