@@ -988,7 +988,7 @@ https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/playlist.m3u8
 https://stream.langsontv.vn/live/285dabcfc94f52b458688fe7f601524816e/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 | Địa phương" radio=true tvg-logo="https://i.imgur.com/vNo2YHM.png",LTV Radio | Báo và Phát thanh – Truyền hình Lai Châu (FM 94.1MHz)
 
-#EXTINF:-1 tvg-id="lamdongradio2" group-title="📻 | Địa phương" radio=true tvg-logo="https://i.imgur.com/xzYvblj.png",LTV Radio | Báo và Phát thanh – Truyền hình Lâm Đồng (AM 891KHz & FM 96.6 – 97MHz)
+#EXTINF:-1 tvg-id="lamdongradio1" group-title="📻 | Địa phương" radio=true tvg-logo="https://i.imgur.com/xzYvblj.png",LTV Radio | Báo và Phát thanh – Truyền hình Lâm Đồng (AM 891KHz & FM 96.6 – 97MHz)
 https://cloudstreamthdn.tek4tv.vn/audio/daknong_radio/playlist.m3u8
 #EXTINF:-1 tvg-id="ninhbinhradio" group-title="📻 | Địa phương" radio=true tvg-logo="https://i.imgur.com/KLxjqSw.png",NBTV Radio | Báo và Phát thanh – Truyền hình Ninh Bình (FM 93.3 – 95.1 – 98.1MHz)
 https://live.mediatech.vn/live/285391a08f01f83458793b293c5e9517265/chunklist.m3u8
