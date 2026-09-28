@@ -934,9 +934,7 @@ http://media.kythuatvov.vn:1936/live/VOV1.sdp/chunklist.m3u8
 http://media.kythuatvov.vn:1936/live/VOV2.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="vov3" group-title="📻 | VOV" radio=true tvg-logo="https://i.imgur.com/BqW9xnj.png",VOV3
 http://media.kythuatvov.vn:1936/live/VOV3.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="vov4tb" group-title="📻 | VOV" radio=true tvg-logo="https://i.imgur.com/8zbIpps.png",VOV4 Tây Bắc
-http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="vov4tb" group-title="📻 | VOV" radio=true tvg-logo="https://i.imgur.com/8zbIpps.png",VOV4 Đông Bắc
+#EXTINF:-1 tvg-id="vov4tb" group-title="📻 | VOV" radio=true tvg-logo="https://i.imgur.com/8zbIpps.png",VOV4 Tây Bắc - Đông Bắc
 http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="vov4mt" group-title="📻 | VOV" radio=true tvg-logo="https://i.imgur.com/8zbIpps.png",VOV4 Miền Trung
 http://media.kythuatvov.vn:1936/live/VOV4_MT.sdp/playlist.m3u8
