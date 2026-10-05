@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="https://epg.io.vn/epg.xml,https://lichphatsong.io.vn/epg.xml"
 #-------------------⚽ | Thể thao Quốc Tế-------------------#
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/Vtk2cGI.png",beIN Sports 1 (Đông Nam Á & Hồng Kông)
-http://weaseltv.live:80/play/live.php?mac=00:1B:79:FA:1E:32&stream=646977&extension=ts&play_token=WOIGLH0WhX
+http://weaseltv.live:80/play/live.php?mac=00:1B:79:FA:1E:32&stream=2065816&extension=ts&play_token=cETo0ARYIC
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/vUJZSvs.png",beIN Sports 2 (Đông Nam Á & Hồng Kông)
-http://weaseltv.live:80/play/live.php?mac=00:1B:79:FA:1E:32&stream=646976&extension=ts&play_token=0xUOovrYE2
+http://weaseltv.live:80/play/live.php?mac=00:1B:79:FA:1E:32&stream=2065815&extension=ts&play_token=Lumy2Lkfd5
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/UYSMao3.png",beIN Sports 3 (Đông Nam Á & Hồng Kông)
-http://weaseltv.live:80/play/live.php?mac=00:1B:79:FA:1E:32&stream=646975&extension=ts&play_token=8n4a51U7pJ
+http://weaseltv.live:80/play/live.php?mac=00:1B:79:FA:1E:32&stream=2065814&extension=ts&play_token=EnUU4U3Jbq
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/tCLrzsZ.png",MONOMAX Sports TV (Thái Lan)
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/tdarg2p.png",Sky Sports+ FHD (Vương quốc Anh)
