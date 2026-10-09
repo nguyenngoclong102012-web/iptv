@@ -626,29 +626,29 @@ https://freem3u.xyz/api/live/play.m3u8?vid=13
 https://freem3u.xyz/api/live/play.m3u8?vid=132
 #-------------------🇻🇳 | Địa phương-------------------#
 #EXTINF:-1 tvg-id="angiang1" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/QE2DMks.png",ATV1 | Báo và Phát thanh – Truyền hình An Giang
-https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=66
 #EXTINF:-1 tvg-id="angiang2" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/N6UodQV.png",ATV2 | Báo và Phát thanh – Truyền hình An Giang
-https://live.fptplay53.net/epzhd2/angiang02hd_vhls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=35
 #EXTINF:-1 tvg-id="angiang3" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/6Q6YcRi.png",ATV3 | Báo và Phát thanh – Truyền hình An Giang
-https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="hatinh" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/6HRW9hi.png",BHTTV | Báo và Phát thanh – Truyền hình Hà Tĩnh
-https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist.m3u8
+https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
 #EXTINF:-1 tvg-id="bacninh" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/XEoAV5l.png",BTV | Báo và Phát thanh – Truyền hình TP. Bắc Ninh
-https://live.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=39
 #EXTINF:-1 tvg-id="cantho1" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/cbgHHku.png",CầnThơ1 | Báo và Phát thanh – Truyền hình TP. Cần Thơ
-https://live.fptplay53.net/epzhd2/cantho01_vhls.smil/chunklist.m3u8
+https://live.canthotv.vn/live/tv/chunklist_w417742265.m3u8
 #EXTINF:-1 tvg-id="cantho2" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/0xj6umb.png",CầnThơ2 | Báo và Phát thanh – Truyền hình TP. Cần Thơ
-https://live.fptplay53.net/epzhd2/cantho02_vhls.smil/chunklist.m3u8
+https://live.canthotv.vn/cs2/live.stream/chunklist_w410354317.m3u8
 #EXTINF:-1 tvg-id="cantho3" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/fPvgtgV.png",CầnThơ3 | Báo và Phát thanh – Truyền hình TP. Cần Thơ
-https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist.m3u8
+https://live.canthotv.vn/cs3/tv/chunklist_w713142462.m3u8
 #EXTINF:-1 tvg-id="caobang" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/4wCcomC.png",CRTV | Báo và Phát thanh – Truyền hình Cao Bằng
-https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=48
 #EXTINF:-1 tvg-id="camau" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/ZKV1ok2.png",CTV | Báo và Phát thanh – Truyền hình Cà Mau
-https://live.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist.m3u8
+https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="dongnai1" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/GgwBihn.png",ĐNNRTV1 | Báo và Phát thanh – Truyền hình TP. Đồng Nai
-https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist.m3u8
+https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-1
 #EXTINF:-1 tvg-id="dongnai2" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/Gh2tbU2.png",ĐNNRTV2 | Báo và Phát thanh – Truyền hình TP. Đồng Nai 
-https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist.m3u8
+https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-2
 #EXTINF:-1 tvg-id="        " group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/Fl7CQrx.png",ĐNNRTV3 | Báo và Phát thanh – Truyền hình TP. Đồng Nai 
 https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
 #EXTINF:-1 tvg-id="danang1" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/LZvET9b.png",DNRT1 | Báo và Phát thanh – Truyền hình TP. Đà Nẵng
