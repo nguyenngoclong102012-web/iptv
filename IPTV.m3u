@@ -670,7 +670,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=33
 #EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/r8ri4dS.png",HanoiTV2 | Báo và Phát thanh – Truyền hình Hà Nội
 https://freem3u.xyz/api/live/play.m3u8?vid=34
 #EXTINF:-1 tvg-id="hue" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/t9YVka2.png",HueTV | Báo và Phát thanh – Truyền hình TP. Huế
-https://freem3u.xyz/api/live/play.m3u8?vid=63
+https://live.huetv.com.vn/TRT-Online/chunklist.m3u8
 #EXTINF:-1 tvg-id="hungyen" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/JAglyuT.png",HYTV | Báo và Phát thanh – Truyền hình Hưng Yên
 https://freem3u.xyz/api/live/play.m3u8?vid=64
 #EXTINF:-1 tvg-id="khanhhoa" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/oFhQCbc.png",KTV | Báo và Phát thanh – Truyền hình Khánh Hòa
@@ -688,9 +688,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=45
 #EXTINF:-1 tvg-id="" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/7dk1cVE.png",LTV (BTV6 – Shopping 24H) | Báo và Phát thanh – Truyền hình Lâm Đồng
 https://freem3u.xyz/api/live/play.m3u8?vid=9838
 #EXTINF:-1 tvg-id="ninhbinh" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/pL4NqYO.png",NBTV | Báo và Phát thanh – Truyền hình Ninh Bình
-https://freem3u.xyz/api/live/play.m3u8?vid=75
+https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
 #EXTINF:-1 tvg-id="nghean" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/FLvFSLS.png",NTV | Báo và Phát thanh – Truyền hình Nghệ An
-https://freem3u.xyz/api/live/play.m3u8?vid=74
+https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 #EXTINF:-1 tvg-id="phutho" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/LXuRwJY.png",PTV | Báo và Phát thanh – Truyền hình Phú Thọ
 https://freem3u.xyz/api/live/play.m3u8?vid=77
 #EXTINF:-1 tvg-id="quangngai" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/gFCWw03.png",QNgTV1 | Báo và Phát thanh – Truyền hình Quảng Ngãi
@@ -741,7 +741,7 @@ https://live.mediatech.vn/live/2858e0e3ef3174443ae90f26ba4a8f0643f/chunklist.m3u
 #KODIPROP:inputstream.adaptive.license_key=09ddfe3d63863cafaeb79d0546b098ab:3de0f38dcf014827dfd5bec38743c6a2
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="afnhd" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/f75LeMa.png",Asian Food Network
-
+https://freem3u.xyz/api/live/play.m3u8?vid=215
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/v33OYIe.png",Cinemax
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -797,7 +797,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=c7ba46086dda345a929e29bf155e459c:d374b8f39904bf572689ea347ae86591
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
 #EXTINF:-1 tvg-id="arirang" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/4F9sO6R.png",Arirang
-
+https://freem3u.xyz/api/live/play.m3u8?vid=111
 #EXTINF:-1 tvg-id="bloomberg" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/FbOtIzd.png",Bloomberg
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -805,7 +805,7 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=1071393f8fc237f3a9a28028142110f7:7a0f8c3c72e0ffff811d534c929c57c2
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd
 #EXTINF:-1 tvg-id="cnbc" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/uCpP3mO.png",CNBC Asia
-
+https://freem3u.xyz/api/live/play.m3u8?vid=9855
 #EXTINF:-1 tvg-id="cnn" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/MOmvHRQ.png",CNN International
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -819,7 +819,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9852
 #EXTINF:-1 tvg-id="dw" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/vLTgPxs.png",DW
 https://freem3u.xyz/api/live/play.m3u8?vid=109
 #EXTINF:-1 tvg-id="davinci" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/5ce2AXF.png",Da Vinci
-
+https://freem3u.xyz/api/live/play.m3u8?vid=214
 #EXTINF:-1 tvg-id="france24eng" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/9COVQ2G.png",France 24 English
 https://freem3u.xyz/api/live/play.m3u8?vid=96
 #EXTINF:-1 tvg-id="" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/u8N6uoj.png",France 24 Français
@@ -827,7 +827,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=10007
 #EXTINF:-1 tvg-id="kbsworld" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/UfseNhE.png",KBS World
 https://freem3u.xyz/api/live/play.m3u8?vid=213
 #EXTINF:-1 tvg-id="nhkworld" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/SfM6WM7.png",NHK World-Japan
-
+https://freem3u.xyz/api/live/play.m3u8?vid=106
 #EXTINF:-1 tvg-id="animalhd" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/KOEl5pp.png",Animal Planet
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -853,7 +853,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
 #EXTINF:-1 tvg-id="outdoorhd" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/UhQQPhY.png",Outdoor Channel
-
+https://freem3u.xyz/api/live/play.m3u8?vid=216
 #EXTINF:-1 tvg-id="historyhd" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/OLeFULn.png",History
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
 #EXTINF:-1 tvg-id="dmax" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/THAWoQf.png",DMAX
@@ -875,7 +875,7 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=c1d9f25701023508bfa6737e3a8c7001:30c3613e9b06e0f7cc201014f31bf5d8
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
 #EXTINF:-1 tvg-id="kix" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/OGTLEJB.png",KIX
-
+https://freem3u.xyz/api/live/play.m3u8?vid=9901
 #EXTINF:-1 tvg-id="tlchd" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/uIWBfu3.png",TLC
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
