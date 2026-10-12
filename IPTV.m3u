@@ -304,7 +304,7 @@ https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist.m3u8
 https://cdn.baoquangninh.vn/live/285f5e4256ea38d48eebdc6175909c847fe/playlist.m3u8
 #EXTINF:-1 tvg-id="quangninh3" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/ci6kzgL.png",QTV3 | Báo và Phát thanh – Truyền hình Quảng Ninh
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
-#EXTINF:-1 tvg-id="sonla" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/xjkm6Zg.png",STV | Báo và Phát thanh – Truyền hình Sơn La
+#EXTINF:-1 tvg-id="sonla" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/xjkm6Zg.png",STV – SNews | Báo và Phát thanh – Truyền hình Sơn La
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
 #EXTINF:-1 tvg-id="tayninh1" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/gsypcku.png",TayNinhTV | Báo và Phát thanh – Truyền hình Tây Ninh
 https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
@@ -535,6 +535,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=10039
 https://freem3u.xyz/api/live/play.m3u8?vid=10037
 #-------------------📻 | Địa phương-------------------#
 #EXTINF:-1 tvg-id="angiangradio" group-title="📻 | Địa phương" radio=true tvg-logo="https://i.imgur.com/kuMugTq.png",ATV Radio | Báo và Phát thanh – Truyền hình An Giang (FM 93.1 – 99.4MHz)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-referer=https://angiangtv.vn/
 https://tv.angiangtv.vn/live/kgaudio/kgaudio.m3u8
 #EXTINF:-1 tvg-id="hatinhradio" group-title="📻 | Địa phương" radio=true tvg-logo="https://i.imgur.com/Qf95UnB.png",BHT Radio | Báo và Phát thanh – Truyền hình Hà Tĩnh (FM 97.8MHz)
 https://cohauw9bgpvod.vcdn.cloud/voht/index.m3u8?_t=1786168738641
