@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="https://epg.io.vn/epg.xml,https://lichphatsong.io.vn/epg.xml"
 #-------------------📻 🇻🇳 | VOV-------------------#
 #EXTINF:-1 tvg-id="vov1" group-title="📻 🇻🇳 | VOV" radio=true tvg-logo="https://i.imgur.com/hSX6Hg7.png",VOV1
 http://media.kythuatvov.vn:1936/live/VOV1.sdp/chunklist.m3u8
