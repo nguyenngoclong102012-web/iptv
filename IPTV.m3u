@@ -309,9 +309,9 @@ https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
 #EXTINF:-1 tvg-id="tayninh1" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/gsypcku.png",TayNinhTV | Báo và Phát thanh – Truyền hình Tây Ninh
 https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 #EXTINF:-1 tvg-id="dongthap1" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/TqAz7ET.png",THĐT1 | Báo và Phát thanh – Truyền hình Đồng Tháp
-https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=54
 #EXTINF:-1 tvg-id="dongthap2" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/PfETBEp.png",THĐT2 – Miền Tây | Báo và Phát thanh – Truyền hình Đồng Tháp
-https://618b88f69e53b.streamlock.net/THDT2/thdttv2/playlist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=90
 #EXTINF:-1 tvg-id="laocai" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/ldwQU4L.png",THLC | Báo và Phát thanh – Truyền hình Lào Cai
 https://live.baolaocai.vn/channel2/stream.m3u8
 #EXTINF:-1 tvg-id="haiphong" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/iq9JLb9.png",THP | Báo và Phát thanh – Truyền hình Hải Phòng
