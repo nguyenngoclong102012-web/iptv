@@ -209,8 +209,6 @@ https://vips-livecdn.fptplay.net/live/media/htv9/live247-hls-avc/htv9.m3u8
 #EXTINF:0 tvg-id="htvthethaohd" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/QpkBtM8.png",HTV Thể Thao
 https://vips-livecdn.fptplay.net/live/media/htvthethao/live247-hls-avc/htvthethao.m3u8
 #-------------------"🇻🇳 | HTVC"-------------------#
-#EXTINF:0 tvg-id="htvccanhachd" group-title="🇻🇳 | HTVC" tvg-logo="https://i.imgur.com/JH7hwSP.png",HTVC Ca Nhạc
-https://freem3u.xyz/api/live/play.m3u8?vid=14
 #EXTINF:0 tvg-id="htvcdulichhd" group-title="🇻🇳 | HTVC" tvg-logo="https://i.imgur.com/AibL0YX.png",HTVC Du Lịch & Cuộc Sống
 https://freem3u.xyz/api/live/play.m3u8?vid=133
 #EXTINF:0 tvg-id="htvcgiadinhhd" group-title="🇻🇳 | HTVC" tvg-logo="https://i.imgur.com/ClAqwdR.png",HTVC Gia Đình 
