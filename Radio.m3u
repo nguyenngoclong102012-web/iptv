@@ -19,7 +19,7 @@ http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="vov5" group-title="📻 🇻🇳 | VOV" radio=true tvg-logo="https://i.imgur.com/xEpYV75.png",VOV5
 http://media.kythuatvov.vn:1936/live/VOV5.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="vov247" group-title="📻 🇻🇳 | VOV" radio=true tvg-logo="https://i.imgur.com/7QtCtPd.png",VOV English 24/7
-http://media.kythuatvov.vn:1936/live/VOV24-7.sdp/playlist.m3u8
+https://audio-lss.vov.vn/live/vov24_7.m3u8
 #EXTINF:-1 tvg-id="vovgthn" group-title="📻 🇻🇳 | VOV" radio=true tvg-logo="https://i.imgur.com/wBHkJao.png",VOV Giao thông Hà Nội
 https://play.vovgiaothong.vn/live/gthn3/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgthcm" group-title="📻 🇻🇳 | VOV" radio=true tvg-logo="https://i.imgur.com/wBHkJao.png",VOV Giao thông TP. Hồ Chí Minh
