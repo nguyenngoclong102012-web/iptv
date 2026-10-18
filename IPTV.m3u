@@ -2,6 +2,8 @@
 #-------------------⚽ | Thể thao Quốc Tế (4K UHD)-------------------#
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế (4K UHD)" tvg-logo="https://i.imgur.com/TTxh9tZ.png",beIN 4K (Trung Đông & Bắc Phi)
 http://pro.8k-strong.tv:80/play/live.php?mac=00:1A:79:C4:6D:7E&stream=1556138&extension=ts
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế (4K UHD)" tvg-logo="https://i.imgur.com/0o3zjC7.png",Eurosport 4K (Châu Âu)
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1444119&extension=ts
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế (4K UHD)" tvg-logo="https://i.imgur.com/mrZwamR.png",Hub Premier 2 UHD (Singapore)
 http://pro.8k-strong.tv:80/play/live.php?mac=00:1A:79:C4:6D:7E&stream=1968708&extension=ts
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế (4K UHD)" tvg-logo="https://i.imgur.com/mrZwamR.png",Hub Premier 2 UHD (Singapore) (2)
