@@ -27,16 +27,6 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:F9:0C&stream=441313&exten
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:F9:0C&stream=441312&extension=ts
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/UYSMao3.png",beIN Sports 3 (Đông Nam Á & Hồng Kông)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:F9:0C&stream=441311&extension=ts
-#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/vwAgJNi.png",beIN Sports 4 (Đông Nam Á & Hồng Kông) (Sự kiện trực tiếp)
-
-#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/2Rha5aY.png",beIN Sports 5 (Đông Nam Á & Hồng Kông) (Sự kiện trực tiếp)
-
-#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/uqVwDrB.png",beIN Sports English 1 (Trung Đông & Bắc Phi)
-
-#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/dWNbCyx.png",beIN Sports English 2 (Trung Đông & Bắc Phi)
-
-#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/2uMaMtF.png",Eurosport (Nam Á)
-
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/a0aMNey.png",Eurosport 1 (Châu Âu)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:F9:0C&stream=401279&extension=ts
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/1nuDnlS.png",Eurosport 2 (Châu Âu)
