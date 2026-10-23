@@ -812,6 +812,8 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:F9:0C&stream=441313&exten
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:F9:0C&stream=441312&extension=ts
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/UYSMao3.png",beIN Sports 3 (Đông Nam Á & Hồng Kông)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:F9:0C&stream=441311&extension=ts
+#EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/2uMaMtF.png",Eurosport (Châu Á)
+https://tv123.cc.cd/live.php?ch=1688&sid=25c87dc113e2d0565b69e157b1eec29d&exp=1792806202&sig=c6ceb1661e195d4cd030bfaa6a56ef423e82c783e0308c5c478a25071b0ad738
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/a0aMNey.png",Eurosport 1 (Châu Âu)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:F9:0C&stream=401279&extension=ts
 #EXTINF:-1 group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/1nuDnlS.png",Eurosport 2 (Châu Âu)
