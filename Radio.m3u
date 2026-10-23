@@ -63,7 +63,7 @@ https://live.canthotv.vn/live/radiocs2/playlist.m3u8
 #EXTINF:-1 tvg-id="camauradio" group-title="📻 🇻🇳 | Địa phương" radio=true tvg-logo="https://i.imgur.com/L4YNDkB.png",CTV Radio | Báo và Phát thanh – Truyền hình Cà Mau (FM 93.8 – 94.6MHz)
 https://tv.ctvcamau.vn/live/radio/radio.m3u8
 #EXTINF:-1 tvg-id="dongnairadio" group-title="📻 🇻🇳 | Địa phương" radio=true tvg-logo="https://i.imgur.com/KHsyaar.png",ĐNNRTV Radio | Báo và Phát thanh – Truyền hình TP. Đồng Nai (FM 89.4 – 97.5MHz)
-
+http://sohoa.truyenthanhthongminh.vn/sohoabinhphuoc
 #EXTINF:-1 tvg-id="" group-title="📻 🇻🇳 | Địa phương" radio=true tvg-logo="https://i.imgur.com/aj9JTbq.png",DNRT Radio | Báo và Phát thanh – Truyền hình TP. Đà Nẵng (AM 702KHz & FM 97.6 – 98.5MHz)
 https://live.mediatech.vn/live/2858a998b1c7fbf4522accd5554588ceae3/playlist.m3u8
 #EXTINF:-1 tvg-id="daklakradio" group-title="📻 🇻🇳 | Địa phương" radio=true tvg-logo="https://i.imgur.com/ygdg349.png",DRT Radio | Báo và Phát thanh – Truyền hình Đắk Lắk (FM 92.4 – 94.7 – 96MHz)
@@ -83,7 +83,7 @@ https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/playlist.m3u8
 #EXTINF:-1 tvg-id="langsonradio" group-title="📻 🇻🇳 | Địa phương" radio=true tvg-logo="https://i.imgur.com/AYif90S.png",LSTV Radio | Báo và Phát thanh – Truyền hình Lạng Sơn (FM 88.2 – 88.6 – 89.3 – 101MHz)
 https://stream.langsontv.vn/live/285dabcfc94f52b458688fe7f601524816e/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 🇻🇳 | Địa phương" radio=true tvg-logo="https://i.imgur.com/vNo2YHM.png",LTV Radio | Báo và Phát thanh – Truyền hình Lai Châu (FM 94.1MHz)
-
+https://luuchieu.truyenhinhso.vn/media/live/CAEF2D87600663654AA4B546/index.m3u8
 #EXTINF:-1 tvg-id="lamdongradio1" group-title="📻 🇻🇳 | Địa phương" radio=true tvg-logo="https://i.imgur.com/xzYvblj.png",LTV Radio | Báo và Phát thanh – Truyền hình Lâm Đồng (AM 891KHz & FM 96.6 – 97MHz)
 https://cfg.truyenhinhdaknong.vn/audio/daknong_radio/playlist.m3u8
 #EXTINF:-1 tvg-id="ninhbinhradio" group-title="📻 🇻🇳 | Địa phương" radio=true tvg-logo="https://i.imgur.com/KLxjqSw.png",NBTV Radio | Báo và Phát thanh – Truyền hình Ninh Bình (FM 93.3 – 95.1 – 98.1MHz)
