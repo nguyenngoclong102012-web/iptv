@@ -270,8 +270,6 @@ https://live.mediatech.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8
 https://tv.gialaitv.vn/tv.m3u8
 #EXTINF:-1 tvg-id="hitv" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/HAso86q.png",HanoiTV – HiTV | Báo và Phát thanh – Truyền hình Hà Nội
 https://freem3u.xyz/api/live/play.m3u8?vid=32
-#EXTINF:-1 tvg-id="youtv" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/ChIFu86.png",HanoiTV – YouTV | Báo và Phát thanh – Truyền hình Hà Nội
-https://freem3u.xyz/api/live/play.m3u8?vid=31
 #EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/1ZscmEO.png",HanoiTV1 | Báo và Phát thanh – Truyền hình Hà Nội
 https://freem3u.xyz/api/live/play.m3u8?vid=33
 #EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/r8ri4dS.png",HanoiTV2 | Báo và Phát thanh – Truyền hình Hà Nội
