@@ -28,7 +28,7 @@ https://play.vovgiaothong.vn/live/gthcm3/playlist.m3u8
 https://play.vovgiaothong.vn/live/mekong3/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgtduyenhai" group-title="📻 🇻🇳 | VOV" radio=true tvg-logo="https://i.imgur.com/p4Zxo8v.png",VOV Giao thông Duyên Hải
 https://play.vovgiaothong.vn/live/duyenhai2/playlist.m3u8
-#EXTINF:-1 tvg-id="vovsonata" group-title="📻 🇻🇳 | VOV" radio=true tvg-logo="https://i.imgur.com/pIioIjP.png",VOV Sonata – FM 89MHz (Thử nghiệm)
+#EXTINF:-1 tvg-id="vovsonata" group-title="📻 🇻🇳 | VOV" radio=true tvg-logo="https://i.imgur.com/Yoyk161.png",VOV Sonata FM89 (Thử nghiệm)
 https://audio-lss.vov.vn/live/sonata.m3u8
 #-------------------📻 🇻🇳 | VOH-------------------#
 #EXTINF:-1 tvg-id="voh610" group-title="📻 🇻🇳 | VOH" radio=true tvg-logo="https://i.imgur.com/jWyncBf.png",VOH AM 610KHz
