@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="https://epg.io.vn/epg.xml,https://lichphatsong.io.vn/epg.xml"
 #-------------------🇻🇳 | VTV-------------------#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/nde4ZGo.png",VTV1 
-https://1011154949.vnns.net/CDN-FPT02/VTV1-HD-1080p/playlist.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv1/free/master.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/PQOFtAz.png",VTV2 
-https://1011154949.vnns.net/CDN-FPT02/VTV2-HD-1080p/playlist.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv2/free/master.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/y43MJ4R.png",VTV3 
-https://1011154949.vnns.net/CDN-FPT02/VTV3-HD-1080p/playlist.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv3/free/master.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/X5xWubC.png",VTV4 
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv4/free/master.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/DNRsgaQ.png",Vietnam Today
@@ -21,7 +21,7 @@ https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv6_free/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/KkRI7mf.png",VTV7 
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv7/free/master.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/1qD4pLg.png",VTV8
-https://vips-livecdn.fptplay.net/live/media/vtv8/live-hls-avc/vtv8.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv8/free/master.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/BJZo8IV.png",VTV9 
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9/free/master.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/QXNh8tM.png",VTV10 
