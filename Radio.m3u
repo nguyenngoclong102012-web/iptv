@@ -22,13 +22,13 @@ http://media.kythuatvov.vn:1936/live/VOV5.sdp/chunklist.m3u8
 https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov247" group-title="📻 🇻🇳 | VOV" radio=true tvg-logo="https://i.imgur.com/7QtCtPd.png",VOV English 24/7
 https://audio-lss.vov.vn/live/vov24_7.m3u8
-#EXTINF:-1 tvg-id="vovgthn" group-title="📻 🇻🇳 | VOV" radio=true tvg-logo="https://i.imgur.com/wBHkJao.png",VOV Giao thông Hà Nội
+#EXTINF:-1 tvg-id="vovgthn" group-title="📻 🇻🇳 | VOV" radio=true tvg-logo="https://i.imgur.com/tEGLSnc.png",VOV Giao thông Hà Nội
 https://play.vovgiaothong.vn/live/gthn3/playlist.m3u8
-#EXTINF:-1 tvg-id="vovgthcm" group-title="📻 🇻🇳 | VOV" radio=true tvg-logo="https://i.imgur.com/wBHkJao.png",VOV Giao thông TP. Hồ Chí Minh
+#EXTINF:-1 tvg-id="vovgthcm" group-title="📻 🇻🇳 | VOV" radio=true tvg-logo="https://i.imgur.com/A5D6fub.png",VOV Giao thông TP. Hồ Chí Minh
 https://play.vovgiaothong.vn/live/gthcm3/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgtmekong" group-title="📻 🇻🇳 | VOV" radio=true tvg-logo="https://i.imgur.com/9bQvnpA.png",VOV Giao thông Mekong
 https://play.vovgiaothong.vn/live/mekong3/playlist.m3u8
-#EXTINF:-1 tvg-id="vovgtduyenhai" group-title="📻 🇻🇳 | VOV" radio=true tvg-logo="https://i.imgur.com/p4Zxo8v.png",VOV Giao thông Duyên Hải
+#EXTINF:-1 tvg-id="vovgtduyenhai" group-title="📻 🇻🇳 | VOV" radio=true tvg-logo="https://i.imgur.com/1S4zCVA.png",VOV Giao thông Duyên Hải
 https://play.vovgiaothong.vn/live/duyenhai2/playlist.m3u8
 #EXTINF:-1 tvg-id="vovsonata" group-title="📻 🇻🇳 | VOV" radio=true tvg-logo="https://i.imgur.com/Yoyk161.png",VOV Sonata FM89 (Thử nghiệm)
 https://audio-lss.vov.vn/live/sonata.m3u8
