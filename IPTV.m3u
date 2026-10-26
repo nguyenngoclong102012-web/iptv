@@ -1,36 +1,36 @@
 #EXTM3U url-tvg="https://epg.io.vn/epg.xml,https://lichphatsong.io.vn/epg.xml"
 #-------------------🇻🇳 | VTV-------------------#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/nde4ZGo.png",VTV1 
-https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1.m3u8
+https://1011154949.vnns.net/CDN-FPT02/VTV1-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/PQOFtAz.png",VTV2 
-https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/vtv2.m3u8
+https://1011154949.vnns.net/CDN-FPT02/VTV2-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/y43MJ4R.png",VTV3 
-https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3.m3u8
+https://1011154949.vnns.net/CDN-FPT02/VTV3-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/X5xWubC.png",VTV4 
-https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/vtv4.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv4/free/master.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/DNRsgaQ.png",Vietnam Today
 https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/QbkRyeD.png",VTV5 
-https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/vtv5.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5/free/master.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/3Et7Xuf.png",VTV5 Tây Nam Bộ 
-https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tnb/free/master.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/9ex5xma.png",VTV5 Tây Nguyên  
-https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tn/free/master.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/3COkK1C.png",VTV6 
-https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv6_free/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/KkRI7mf.png",VTV7 
-https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/vtv7.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv7/free/master.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/1qD4pLg.png",VTV8
 https://vips-livecdn.fptplay.net/live/media/vtv8/live-hls-avc/vtv8.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/BJZo8IV.png",VTV9 
-https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9/free/master.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/QXNh8tM.png",VTV10 
-https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10/free/master.m3u8
 #-------------------🇻🇳 | Thiết yếu-------------------#
 #EXTINF:-1 tvg-id="antvhd" group-title="🇻🇳 | Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV | Truyền hình Công an Nhân dân
-https://vips-livecdn.fptplay.net/live/media/antv/live-hls-avc/antv.m3u8
+https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="🇻🇳 | Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN | Truyền hình Quốc phòng Việt Nam
-https://vips-livecdn.fptplay.net/live/media/quocphongvn/live-hls-avc/quocphongvn.m3u8
+https://qpvn.vn/live/qpvn/master.m3u8
 #-------------------🇻🇳 | VTVcab-------------------#
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="🇻🇳 | VTVcab" tvg-logo="https://i.imgur.com/Vhae7oG.png",VTVcab 1 | ON Vie Giải Trí
 https://freem3u.xyz/api/live/play.m3u8?vid=180
@@ -203,21 +203,21 @@ https://vmttv.dpdns.org/VTVGo/?sctvphim
 
 #-------------------"🇻🇳 | HTV"-------------------#
 #EXTINF:-1 tvg-id="htv1" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/eJL1jCs.png",HTV1
-https://freem3u.xyz/api/live/play.m3u8?vid=190
+https://1011154949.vnns.net/CDN-FPT02/HTV1-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/O6GTYRf.png",HTV2 | Vie Channel
-https://freem3u.xyz/api/live/play.m3u8?vid=191
+https://1011154949.vnns.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/N9Zwu7H.png",HTV3
-https://freem3u.xyz/api/live/play.m3u8?vid=192
+https://1011154949.vnns.net/CDN-FPT02/HTV3-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/Og3czmm.png",HTV4
 https://freem3u.xyz/api/live/play.m3u8?vid=9
 #EXTINF:-1 tvg-id="htv5" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/QHizagk.png",HTV5 | Bchannel
 https://freem3u.xyz/api/live/play.m3u8?vid=151
 #EXTINF:-1 tvg-id="htv7hd" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/G3OVYJU.png",HTV7
-https://vips-livecdn.fptplay.net/live/media/htv7/live247-hls-avc/htv7.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/sHYE36W.png",HTV9
-https://vips-livecdn.fptplay.net/live/media/htv9/live247-hls-avc/htv9.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8
 #EXTINF:0 tvg-id="htvthethaohd" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/QpkBtM8.png",HTV Thể Thao
-https://vips-livecdn.fptplay.net/live/media/htvthethao/live247-hls-avc/htvthethao.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 #-------------------"🇻🇳 | HTVC"-------------------#
 #EXTINF:0 tvg-id="htvcdulichhd" group-title="🇻🇳 | HTVC" tvg-logo="https://i.imgur.com/AibL0YX.png",HTVC Du Lịch & Cuộc Sống
 https://freem3u.xyz/api/live/play.m3u8?vid=133
@@ -596,99 +596,6 @@ https://vmttv.dpdns.org/tv360/?id=tv360-14
 https://vmttv.dpdns.org/tv360/?id=tv360-15
 #EXTINF:-1 tvg-id="tv360plus16" group-title="🔴 | TV360 - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/a99yBqZ.png",TV360+ 16
 
-#-------------------🔴 | FPT Play - Sự kiện trực tiếp-------------------#
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 1
-https://vips-livecdn.fptplay.net/live/media/event-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Event 1 4K
-https://fbox-livecdn.fptplay.net/live/media/event-01-4k/4k_hls_hvc/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 2
-https://vips-livecdn.fptplay.net/live/media/event-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Event 2 4K
-https://fbox-livecdn.fptplay.net/live/media/event-02-4k/4k_hls_hvc/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 3
-https://vips-livecdn.fptplay.net/live/media/event-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Event 3 4K
-https://fbox-livecdn.fptplay.net/live/media/event-03-4k/4k_hls_hvc/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 4
-https://vips-livecdn.fptplay.net/live/media/event-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Event 4 4K
-https://fbox-livecdn.fptplay.net/live/media/event-04-4k/4k_hls_hvc/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 5
-https://vips-livecdn.fptplay.net/live/media/event-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 6
-https://vips-livecdn.fptplay.net/live/media/event-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 7
-https://vips-livecdn.fptplay.net/live/media/event-07/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 8
-https://vips-livecdn.fptplay.net/live/media/event-08/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 9
-https://vips-livecdn.fptplay.net/live/media/event-09/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 10
-https://vips-livecdn.fptplay.net/live/media/event-10/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 11
-https://vips-livecdn.fptplay.net/live/media/event-11/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Event 12
-https://vips-livecdn.fptplay.net/live/media/event-12/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 1
-https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Sự kiện 1 4K
-https://fbox-livecdn.fptplay.net/live/media/su-kien-01-4k/4k_hls_hvc/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 2
-https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 3
-https://vips-livecdn.fptplay.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Sự kiện 3 4K
-https://fbox-livecdn.fptplay.net/live/media/su-kien-03-4k/4k_hls_hvc/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 4
-https://vips-livecdn.fptplay.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/xBYxbqb.png",Sự kiện 4 4K
-https://fbox-livecdn.fptplay.net/live/media/su-kien-04-4k/4k_hls_hvc/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 5
-https://vips-livecdn.fptplay.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 6
-https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 7
-https://vips-livecdn.fptplay.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 8
-https://vips-livecdn.fptplay.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 9
-https://vips-livecdn.fptplay.net/live/media/su-kien-09/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 10
-https://vips-livecdn.fptplay.net/live/media/su-kien-10/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 11
-https://vips-livecdn.fptplay.net/live/media/su-kien-11/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 12
-https://vips-livecdn.fptplay.net/live/media/su-kien-12/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 13
-https://vips-livecdn.fptplay.net/live/media/su-kien-13/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 14
-https://vips-livecdn.fptplay.net/live/media/su-kien-14/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 15
-https://vips-livecdn.fptplay.net/live/media/su-kien-15/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 16
-https://vips-livecdn.fptplay.net/live/media/su-kien-16/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 17
-https://vips-livecdn.fptplay.net/live/media/su-kien-17/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 82
-https://vips-livecdn.fptplay.net/live/media/su-kien-82/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 83
-https://vips-livecdn.fptplay.net/live/media/su-kien-83/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 84
-https://vips-livecdn.fptplay.net/live/media/su-kien-84/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 85
-https://vips-livecdn.fptplay.net/live/media/su-kien-85/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 86
-https://vips-livecdn.fptplay.net/live/media/su-kien-86/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 87
-https://vips-livecdn.fptplay.net/live/media/su-kien-87/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 88
-https://vips-livecdn.fptplay.net/live/media/su-kien-88/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 89
-https://vips-livecdn.fptplay.net/live/media/su-kien-89/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 90
-https://vips-livecdn.fptplay.net/live/media/su-kien-90/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 | FPT Play - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/BRpGUYn.png",Sự kiện 91
-https://vips-livecdn.fptplay.net/live/media/su-kien-91/hls_avc_v6/index.m3u8
 #-------------------🔴 | VTVprime - Sự kiện trực tiếp-------------------#
 #EXTINF:-1 group-title="🔴 | VTVprime - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/jzJsEJ7.png",VTVprime 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
