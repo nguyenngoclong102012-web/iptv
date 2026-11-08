@@ -7,25 +7,25 @@ https://1011154949.vnns.net/CDN-FPT02/VTV2-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/y43MJ4R.png",VTV3 HD
 https://1011154949.vnns.net/CDN-FPT02/VTV3-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/X5xWubC.png",VTV4 HD
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv4/free/master.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv4__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/DNRsgaQ.png",Vietnam Today
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vietnamtoday/free/master.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/QbkRyeD.png",VTV5 HD
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5/free/master.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/3Et7Xuf.png",VTV5 Tây Nam Bộ HD
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tnb/free/master.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tnb__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/9ex5xma.png",VTV5 Tây Nguyên HD 
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tn/free/master.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tn__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/3COkK1C.png",VTV6 HD
-https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv6_free/playlist.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/KkRI7mf.png",VTV7 HD
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv7/free/master.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv7__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/1qD4pLg.png",VTV8 HD
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv8/free/master.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv8__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/BJZo8IV.png",VTV9 HD
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9/free/master.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" group-title="🇻🇳 | VTV" tvg-logo="https://i.imgur.com/QXNh8tM.png",VTV10 HD
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10/free/master.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10__vtv720p-h264/index.m3u8
 #-------------------🇻🇳 | Thiết yếu-------------------#
 #EXTINF:-1 tvg-id="antvhd" group-title="🇻🇳 | Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD | Truyền hình Công an Nhân dân
 https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
