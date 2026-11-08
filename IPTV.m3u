@@ -200,35 +200,35 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/K7B6vPB.png",SCTV Phim Tổng hợp
 https://vmttv.dpdns.org/VTVGo/?sctvphim
 #-------------------"🇻🇳 | HTV"-------------------#
-#EXTINF:-1 tvg-id="htv1" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/eJL1jCs.png",HTV1
+#EXTINF:-1 tvg-id="htv1" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/eJL1jCs.png",HTV1 HD
 https://1011154949.vnns.net/CDN-FPT02/HTV1-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htv2hd" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/O6GTYRf.png",HTV2 | Vie Channel
+#EXTINF:-1 tvg-id="htv2hd" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/O6GTYRf.png",HTV2 HD | Vie Channel
 https://1011154949.vnns.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htv3" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/N9Zwu7H.png",HTV3
+#EXTINF:-1 tvg-id="htv3" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/N9Zwu7H.png",HTV3 HD
 https://1011154949.vnns.net/CDN-FPT02/HTV3-SD-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="htv4" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/Og3czmm.png",HTV4
+#EXTINF:-1 tvg-id="htv4" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/Og3czmm.png",HTV4 HD
 https://freem3u.xyz/api/live/play.m3u8?vid=9
-#EXTINF:-1 tvg-id="htv5" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/QHizagk.png",HTV5 | Bchannel
+#EXTINF:-1 tvg-id="htv5" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/QHizagk.png",HTV5 HD | Bchannel
 https://freem3u.xyz/api/live/play.m3u8?vid=151
-#EXTINF:-1 tvg-id="htv7hd" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/G3OVYJU.png",HTV7
+#EXTINF:-1 tvg-id="htv7hd" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/G3OVYJU.png",HTV7 HD
 https://1011154949.vnns.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/sHYE36W.png",HTV9
+#EXTINF:-1 tvg-id="htv9hd" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/sHYE36W.png",HTV9 HD
 https://1011154949.vnns.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8
-#EXTINF:0 tvg-id="htvthethaohd" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/QpkBtM8.png",HTV Thể Thao
+#EXTINF:0 tvg-id="htvthethaohd" group-title="🇻🇳 | HTV" tvg-logo="https://i.imgur.com/QpkBtM8.png",HTV Thể Thao HD
 https://1011154949.vnns.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 #-------------------"🇻🇳 | HTVC"-------------------#
-#EXTINF:0 tvg-id="htvcdulichhd" group-title="🇻🇳 | HTVC" tvg-logo="https://i.imgur.com/AibL0YX.png",HTVC Du Lịch & Cuộc Sống
-https://freem3u.xyz/api/live/play.m3u8?vid=133
-#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="🇻🇳 | HTVC" tvg-logo="https://i.imgur.com/ClAqwdR.png",HTVC Gia Đình 
-https://freem3u.xyz/api/live/play.m3u8?vid=11
-#EXTINF:0 tvg-id="htvcphimhd" group-title="🇻🇳 | HTVC" tvg-logo="https://i.imgur.com/m686ycq.png",HTVC Phim 
-https://freem3u.xyz/api/live/play.m3u8?vid=15
-#EXTINF:0 tvg-id="htvcphunuhd" group-title="🇻🇳 | HTVC" tvg-logo="https://i.imgur.com/lttQ5py.png",HTVC Phụ Nữ 
-https://freem3u.xyz/api/live/play.m3u8?vid=12
+#EXTINF:0 tvg-id="htvcdulichhd" group-title="🇻🇳 | HTVC" tvg-logo="https://i.imgur.com/AibL0YX.png",HTVC Du Lịch & Cuộc Sống HD
+https://1011154949.vnns.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="🇻🇳 | HTVC" tvg-logo="https://i.imgur.com/ClAqwdR.png",HTVC Gia Đình HD
+https://1011154949.vnns.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="htvcphimhd" group-title="🇻🇳 | HTVC" tvg-logo="https://i.imgur.com/m686ycq.png",HTVC Phim HD
+https://1011154949.vnns.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="htvcphunuhd" group-title="🇻🇳 | HTVC" tvg-logo="https://i.imgur.com/lttQ5py.png",HTVC Phụ Nữ HD
+https://1011154949.vnns.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
 #EXTINF:0 tvg-id="htvcthuanviet" group-title="🇻🇳 | HTVC" tvg-logo="https://i.imgur.com/r1mvTp8.png",HTVC Thuần Việt
-https://freem3u.xyz/api/live/play.m3u8?vid=13
-#EXTINF:0 tvg-id="htvcplushd" group-title="🇻🇳 | HTVC" tvg-logo="https://i.imgur.com/rhxzGQ8.png",HTVC+ 
-https://freem3u.xyz/api/live/play.m3u8?vid=132
+https://1011154949.vnns.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="htvcplushd" group-title="🇻🇳 | HTVC" tvg-logo="https://i.imgur.com/rhxzGQ8.png",HTVC+ HD
+https://1011154949.vnns.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 #-------------------🇻🇳 | Địa phương-------------------#
 #EXTINF:-1 tvg-id="angiang1" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/QE2DMks.png",ATV1 | Báo và Phát thanh – Truyền hình An Giang
 https://freem3u.xyz/api/live/play.m3u8?vid=66
@@ -270,6 +270,8 @@ https://live.mediatech.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8
 https://tv.gialaitv.vn/tv.m3u8
 #EXTINF:-1 tvg-id="hitv" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/HAso86q.png",HanoiTV – HiTV | Báo và Phát thanh – Truyền hình Hà Nội
 https://freem3u.xyz/api/live/play.m3u8?vid=32
+#EXTINF:-1 tvg-id="youtv" group-title="🇻🇳 | Địa phương" tvg-logo="",HanoiTV – YouTV | Báo và Phát thanh – Truyền hình Hà Nội
+https://freem3u.xyz/api/live/play.m3u8?vid=31
 #EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/1ZscmEO.png",HanoiTV1 | Báo và Phát thanh – Truyền hình Hà Nội
 https://freem3u.xyz/api/live/play.m3u8?vid=33
 #EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/r8ri4dS.png",HanoiTV2 | Báo và Phát thanh – Truyền hình Hà Nội
@@ -301,7 +303,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=77
 #EXTINF:-1 tvg-id="quangngai" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/gFCWw03.png",QNgTV1 | Báo và Phát thanh – Truyền hình Quảng Ngãi
 http://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
 #EXTINF:-1 tvg-id="quangngai2" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/qRRP87p.png",QNgTV2 | Báo và Phát thanh – Truyền hình Quảng Ngãi
-https://tv.vietanhtv.top/vieon/vieon.php?id=kon-tum-1
+https://ott3.nethubtv.vn/live/bentretv/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="quangtri" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/DmYizk1.png",QTTV | Báo và Phát thanh – Truyền hình Quảng Trị
 http://freem3u.xyz/api/live/play.m3u8?vid=83
 #EXTINF:-1 tvg-id="quangninh1" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/KVia0uU.png",QTV1 | Báo và Phát thanh – Truyền hình Quảng Ninh 
