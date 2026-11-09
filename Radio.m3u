@@ -90,7 +90,7 @@ https://luuchieu.truyenhinhso.vn/media/live/CAEF2D87600663654AA4B546/index.m3u8
 https://cfg.truyenhinhdaknong.vn/audio/daknong_radio/playlist.m3u8
 #EXTINF:-1 tvg-id="ninhbinhradio" group-title="📻 🇻🇳 | Địa phương" radio=true tvg-logo="https://i.imgur.com/KLxjqSw.png",NBTV Radio | Báo và Phát thanh – Truyền hình Ninh Bình (FM 93.3 – 95.1 – 98.1MHz)
 https://live.mediatech.vn/live/285391a08f01f83458793b293c5e9517265/chunklist.m3u8
-#EXTINF:-1 tvg-id="ngheanradio" group-title="📻 🇻🇳 | Địa phương" radio=true tvg-logo="https://i.imgur.com/7JqpAAL.png",NTV Radio | Báo và Phát thanh – Truyền hình Nghệ An (FM 99.6MHz)
+#EXTINF:-1 tvg-id="ngheanradio" group-title="📻 🇻🇳 | Địa phương" radio=true tvg-logo="https://i.imgur.com/7JqpAAL.png",NaTV Radio | Báo và Phát thanh – Truyền hình Nghệ An (FM 99.6MHz)
 https://live.mediatech.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 🇻🇳 | Địa phương" radio=true tvg-logo="https://i.imgur.com/Kc60LAI.png",PTV Radio | Báo và Phát thanh – Truyền hình Phú Thọ (FM 105 – 106MHz)
 
