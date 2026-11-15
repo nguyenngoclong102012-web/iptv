@@ -130,16 +130,16 @@ https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/WO/manifest.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+#KODIPROP:inputstream.adaptive.license_type=
+#KODIPROP:inputstream.adaptive.license_key=
+
 #EXTINF:-1 tvg-id="spotv2" group-title="🇻🇳 | MyTV (VNPT) - SPOTV" tvg-logo="https://i.imgur.com/3Du3dND.png",SPOTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+#KODIPROP:inputstream.adaptive.license_type=
+#KODIPROP:inputstream.adaptive.license_key=
+
 #-------------------🇻🇳 | SCTV-------------------#
 #EXTINF:-1 tvg-id="sctv1hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/e5bB5au.png",SCTV1 
 https://vmttv.dpdns.org/VTVGo/?sctv1
@@ -405,6 +405,8 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
 #EXTINF:-1 tvg-id="arirang" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/4F9sO6R.png",Arirang
 https://freem3u.xyz/api/live/play.m3u8?vid=111
+#EXTINF:-1 tvg-id="arirang" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/RUSX0rX.png",Channel One Russia
+https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/FbOtIzd.png",Bloomberg
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
