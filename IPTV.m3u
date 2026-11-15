@@ -405,8 +405,8 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
 #EXTINF:-1 tvg-id="arirang" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/4F9sO6R.png",Arirang
 https://freem3u.xyz/api/live/play.m3u8?vid=111
-#EXTINF:-1 tvg-id="arirang" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/RUSX0rX.png",Channel One Russia
-https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/RUSX0rX.png",Channel One Russia
+https://cdn8.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="bloomberg" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/FbOtIzd.png",Bloomberg
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
