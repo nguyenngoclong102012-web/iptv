@@ -126,8 +126,16 @@ https://radio.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 🌐 | Quốc tế" radio=true tvg-logo="https://i.imgur.com/veoIbqP.png",BBC World Service
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_07364996/live/ww/bbc_world_service_news_internet/bbc_world_service_news_internet.isml/bbc_world_service_news_internet-audio%3d48000.norewind.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 🌐 | Quốc tế" radio=true tvg-logo="https://i.imgur.com/4KQ8zLZ.png",NHK World Radio Japan (CH1)
-https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media11/index.m3u8
+https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media2/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 🌐 | Quốc tế" radio=true tvg-logo="https://i.imgur.com/4KQ8zLZ.png",NHK World Radio Japan (CH2)
-https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media12/index.m3u8
+https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media3/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 🌐 | Quốc tế" radio=true tvg-logo="https://i.imgur.com/4KQ8zLZ.png",NHK World Radio Japan (CH3)
+http://shoutcast.wrn.org:8025/nhk41left
+#EXTINF:-1 tvg-id="" group-title="📻 🌐 | Quốc tế" radio=true tvg-logo="https://i.imgur.com/4KQ8zLZ.png",NHK World Radio Japan (CH4)
+http://shoutcast.wrn.org:8025/nhk41right
+#EXTINF:-1 tvg-id="" group-title="📻 🌐 | Quốc tế" radio=true tvg-logo="https://i.imgur.com/4KQ8zLZ.png",NHK World Radio Japan (CH11)
+https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media11/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻 🌐 | Quốc tế" radio=true tvg-logo="https://i.imgur.com/4KQ8zLZ.png",NHK World Radio Japan (CH12)
+https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media12/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻 🌐 | Quốc tế" radio=true tvg-logo="https://i.imgur.com/4KQ8zLZ.png",NHK World Radio Japan (CH13)
 https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media13/index.m3u8
