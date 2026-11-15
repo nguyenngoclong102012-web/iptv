@@ -123,8 +123,10 @@ https://luuchieu.truyenhinhso.vn/media/live/EDBFCBB8687FE7589B3CDFEB/index.m3u8
 #EXTINF:-1 tvg-id="thainguyenradio" group-title="📻 🇻🇳 | Địa phương" radio=true tvg-logo="https://i.imgur.com/YkJAX85.png",VOT Radio | Báo và Phát thanh – Truyền hình Thái Nguyên (FM 99.3 – 102.1 – 106.5MHz)
 https://radio.thainguyentv.vn/hls/livestream.m3u8
 #-------------------📻 🌐 | Quốc tế-------------------#
+#EXTINF:-1 tvg-id="" group-title="📻 🌐 | Quốc tế" radio=true tvg-logo="https://i.imgur.com/r2DUH9y.png",ABC Radio Australia
+https://streaming.abc-cdn.net.au/audio/hls/ramulti.m3u8?source=web
 #EXTINF:-1 tvg-id="" group-title="📻 🌐 | Quốc tế" radio=true tvg-logo="https://i.imgur.com/veoIbqP.png",BBC World Service
-https://as-hls-ww.live.cf.md.bbci.co.uk/pool_07364996/live/ww/bbc_world_service_news_internet/bbc_world_service_news_internet.isml/bbc_world_service_news_internet-audio%3d48000.norewind.m3u8
+http://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia
 #EXTINF:-1 tvg-id="" group-title="📻 🌐 | Quốc tế" radio=true tvg-logo="https://i.imgur.com/4KQ8zLZ.png",NHK World Radio Japan (CH1)
 https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media2/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 🌐 | Quốc tế" radio=true tvg-logo="https://i.imgur.com/4KQ8zLZ.png",NHK World Radio Japan (CH2)
