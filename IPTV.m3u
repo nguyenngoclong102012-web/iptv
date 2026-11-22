@@ -467,7 +467,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=35
 #EXTVLCOPT:http-user-referer=https://angiangtv.vn/
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="hatinh" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/6HRW9hi.png",BHTTV | Báo và Phát thanh – Truyền hình Hà Tĩnh
-https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=58
 #EXTINF:-1 tvg-id="bacninh" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/XEoAV5l.png",BTV | Báo và Phát thanh – Truyền hình TP. Bắc Ninh
 https://freem3u.xyz/api/live/play.m3u8?vid=39
 #EXTINF:-1 tvg-id="cantho1" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/cbgHHku.png",CầnThơ1 | Báo và Phát thanh – Truyền hình TP. Cần Thơ
