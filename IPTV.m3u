@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.io.vn/epg.xml,https://lichphatsong.io.vn/epg.xml"
+#EXTM3U url-tvg="https://epg.io.vn/epg.xml"
 #-------------------⚽ | Thể thao Quốc Tế-------------------#
 #EXTINF:-1 tvg-id="" group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/olQJgm7.png",Eurosport 1 (Châu Âu)
 https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8
