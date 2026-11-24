@@ -6,6 +6,8 @@ https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/pl
 https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="MONOMAXSPORTS.th" group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/tCLrzsZ.png",MONOMAX Sports TV (Thái Lan)
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+#EXTINF:-1 tvg-id="SkySportSelect.nz" group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/6x2anTA.png",Sky Sport Select (New Zealand)
+http://restream.oled-ott.net:80/play/live.php?mac=00:1B:79:37:17:DF&stream=809380&extension=ts
 #EXTINF:-1 tvg-id="SkySport1.nz" group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/ThJHEuN.png",Sky Sport 1 (New Zealand)
 http://restream.oled-ott.net:80/play/live.php?mac=00:1B:79:37:17:DF&stream=809379&extension=ts
 #EXTINF:-1 tvg-id="SkySport2.nz" group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/cu8yB69.png",Sky Sport 2 (New Zealand)
