@@ -276,7 +276,7 @@ https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9__vtv720p-h264/index.m
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10__vtv720p-h264/index.m3u8
 #-------------------🇻🇳 | Thiết yếu-------------------#
 #EXTINF:-1 tvg-id="antvhd" group-title="🇻🇳 | Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD | Truyền hình Công an Nhân dân
-https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=20
 #EXTINF:-1 tvg-id="qpvnhd" group-title="🇻🇳 | Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN HD | Truyền hình Quốc phòng Việt Nam
 https://qpvn.vn/live/qpvn/master.m3u8
 #-------------------🇻🇳 | VTVcab-------------------#
