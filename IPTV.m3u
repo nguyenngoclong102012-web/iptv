@@ -239,7 +239,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=35
 #EXTVLCOPT:http-user-referer=https://angiangtv.vn/
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="hatinh" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/6HRW9hi.png",BHTTV | Báo và Phát thanh – Truyền hình Hà Tĩnh
-https://freem3u.xyz/api/live/play.m3u8?vid=80
+https://freem3u.xyz/api/live/play.m3u8?vid=58
 #EXTINF:-1 tvg-id="bacninh" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/XEoAV5l.png",BTV | Báo và Phát thanh – Truyền hình TP. Bắc Ninh
 https://freem3u.xyz/api/live/play.m3u8?vid=39
 #EXTINF:-1 tvg-id="cantho1" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/cbgHHku.png",CầnThơ1 | Báo và Phát thanh – Truyền hình TP. Cần Thơ
@@ -251,7 +251,7 @@ http://freem3u.xyz/api/live/play.m3u8?vid=84
 #EXTINF:-1 tvg-id="caobang" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/4wCcomC.png",CRTV | Báo và Phát thanh – Truyền hình Cao Bằng
 https://freem3u.xyz/api/live/play.m3u8?vid=48
 #EXTINF:-1 tvg-id="camau" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/ZKV1ok2.png",CTV | Báo và Phát thanh – Truyền hình Cà Mau
-https://tv.ctvcamau.vn/live/tv/tv.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=46
 #EXTINF:-1 tvg-id="dongnai1" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/GgwBihn.png",ĐNNRTV1 | Báo và Phát thanh – Truyền hình TP. Đồng Nai
 https://freem3u.xyz/api/live/play.m3u8?vid=53
 #EXTINF:-1 tvg-id="dongnai2" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/Gh2tbU2.png",ĐNNRTV2 | Báo và Phát thanh – Truyền hình TP. Đồng Nai 
@@ -259,15 +259,15 @@ https://freem3u.xyz/api/live/play.m3u8?vid=255
 #EXTINF:-1 tvg-id="        " group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/Fl7CQrx.png",ĐNNRTV3 | Báo và Phát thanh – Truyền hình TP. Đồng Nai 
 https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
 #EXTINF:-1 tvg-id="danang1" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/LZvET9b.png",DNRT1 | Báo và Phát thanh – Truyền hình TP. Đà Nẵng
-https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=49
 #EXTINF:-1 tvg-id="danang2" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/5JBOf1G.png",DNRT2 | Báo và Phát thanh – Truyền hình TP. Đà Nẵng
-https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=80
 #EXTINF:-1 tvg-id="daklak" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/P1WNwxi.png",DRT | Báo và Phát thanh – Truyền hình Đắk Lắk
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
 #EXTINF:-1 tvg-id="dienbien" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/hMDRDxN.png",ĐTV | Báo và Phát thanh – Truyền hình Điện Biên
-https://live.mediatech.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=52
 #EXTINF:-1 tvg-id="gialai" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/ULxoakW.png",GTV | Báo và Phát thanh – Truyền hình Gia Lai
-https://tv.gialaitv.vn/tv.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=55
 #EXTINF:-1 tvg-id="hitv" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/HAso86q.png",HanoiTV – HiTV | Báo và Phát thanh – Truyền hình Hà Nội
 https://freem3u.xyz/api/live/play.m3u8?vid=32
 #EXTINF:-1 tvg-id="youtv" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/js9Y2v3.png",HanoiTV – YouTV | Báo và Phát thanh – Truyền hình Hà Nội
@@ -281,9 +281,9 @@ https://live.huetv.com.vn/TRT-Online/chunklist.m3u8
 #EXTINF:-1 tvg-id="hungyen" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/JAglyuT.png",HYTV | Báo và Phát thanh – Truyền hình Hưng Yên
 https://freem3u.xyz/api/live/play.m3u8?vid=64
 #EXTINF:-1 tvg-id="khanhhoa" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/oFhQCbc.png",KTV | Báo và Phát thanh – Truyền hình Khánh Hòa
-https://cdnbaokhanhhoa.com/live/1332e3a79e27_std.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=65
 #EXTINF:-1 tvg-id="khanhhoa1" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/D2qNF42.png",KTV1 | Báo và Phát thanh – Truyền hình Khánh Hòa
-https://cdnbaokhanhhoa.com/live/90405a889081_std.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=76
 #EXTINF:-1 tvg-id="langson" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/yxz02UD.png",LSTV | Báo và Phát thanh – Truyền hình Lạng Sơn
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
 #EXTINF:-1 tvg-id="laichau" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/n02cvKQ.png",LTV | Báo và Phát thanh – Truyền hình Lai Châu
@@ -297,7 +297,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9838
 #EXTINF:-1 tvg-id="ninhbinh" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/pL4NqYO.png",NBTV | Báo và Phát thanh – Truyền hình Ninh Bình
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
 #EXTINF:-1 tvg-id="nghean" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/ot9s7MA.png",NaTV | Báo và Phát thanh – Truyền hình Nghệ An
-https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 #EXTINF:-1 tvg-id="phutho" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/LXuRwJY.png",PTV | Báo và Phát thanh – Truyền hình Phú Thọ
 https://freem3u.xyz/api/live/play.m3u8?vid=77
 #EXTINF:-1 tvg-id="quangngai" group-title="🇻🇳 | Địa phương" tvg-logo="https://i.imgur.com/gFCWw03.png",QNgTV1 | Báo và Phát thanh – Truyền hình Quảng Ngãi
