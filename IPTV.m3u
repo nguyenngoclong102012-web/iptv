@@ -689,7 +689,6 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:19:88:F9&stream=1174233&ext
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:19:88:F9&stream=1174234&extension=ts
 #EXTINF:-1 tvg-id="TNTSportsUltimate.uk" group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/IxFs9jF.png",🇬🇧 | TNT Sports Ultimate UHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:19:88:F9&stream=1174213&extension=ts
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10__vtv720p-h264/index.m3u8
 #-------------------🔴 | TV360 - Sự kiện trực tiếp-------------------#
 #EXTINF:-1 tvg-id="tv360plus1" group-title="🔴 | TV360 - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/p9uXNyF.png",TV360+ 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
