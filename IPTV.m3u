@@ -146,29 +146,29 @@ https://vmttv.dpdns.org/VTVGo/?sctv1
 #EXTINF:-1 tvg-id="sctv2hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/gSmvktp.png",SCTV2 | TodayTV
 https://freem3u.xyz/api/live/play.m3u8?vid=201
 #EXTINF:-1 tvg-id="sctv3hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/eh3ihjb.png",SCTV3 | SeeTV
-https://vmttv.dpdns.org/VTVGo/?sctv3
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv3/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="sctv4hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/yj4HTAc.png",SCTV4
-https://vmttv.dpdns.org/VTVGo/?sctv4
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="       " group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/2bTj5OP.png",SCTV5 | SCJ TV Shopping
 https://vmttv.dpdns.org/VTVGo/?sctv5
 #EXTINF:-1 tvg-id="sctv6hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/P0YHX5o.png",SCTV6
 https://freem3u.xyz/api/live/play.m3u8?vid=232
 #EXTINF:-1 tvg-id="sctv7hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/9cNqDtI.png",SCTV7
-https://vmttv.dpdns.org/VTVGo/?sctv7
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/epwIc56.png",SCTV8 | VITV
 https://vmttv.dpdns.org/VTVGo/?sctv8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/umn9Y1j.png",SCTV9 
-https://vmttv.dpdns.org/VTVGo/?sctv9
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="        " group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/vYKy0wY.png",SCTV10 | Happymall
 https://vmttv.dpdns.org/VTVGo/?sctv10
 #EXTINF:-1 tvg-id="sctv11hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/pcqQkjR.png",SCTV11 
-https://vmttv.dpdns.org/VTVGo/?sctv11
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="sctv12hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/OkRuqMT.png",SCTV12 
-https://vmttv.dpdns.org/VTVGo/?sctv12
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="sctv13hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/Adhofnp.png",SCTV13 
-https://vmttv.dpdns.org/VTVGo/?sctv13
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="sctv14hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/cJJJcmW.png",SCTV14 | Kênh Phim Việt
-https://vmttv.dpdns.org/VTVGo/?sctv14
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv14/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="sctv15hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/qu8zwgh.png",SCTV15 | SSport 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -176,7 +176,7 @@ https://vmttv.dpdns.org/VTVGo/?sctv14
 #KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
 https://liveatmvng.vtvprime.vn/live/data8/SCTV15HD/Live_DASHDRM/SCTV15HD.mpd
 #EXTINF:-1 tvg-id="sctv16hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/UGVz15Z.png",SCTV16
-https://vmttv.dpdns.org/VTVGo/?sctv16
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="sctv17hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/SWU6DTB.png",SCTV17 | SSport
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -184,11 +184,11 @@ https://vmttv.dpdns.org/VTVGo/?sctv16
 #KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
 https://liveatmvng.vtvprime.vn/live/data8/SCTV17/Live_DASHDRM/SCTV17.mpd
 #EXTINF:-1 tvg-id="sctv18hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/xDKUorD.png",SCTV18
-https://vmttv.dpdns.org/VTVGo/?sctv18
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="sctv19hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/PMfxczF.png",SCTV19
-https://vmttv.dpdns.org/VTVGo/?sctv19
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="sctv20hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/M6N0Qxi.png",SCTV20 
-https://vmttv.dpdns.org/VTVGo/?sctv20
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="sctv21hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/ko2B1TN.png",SCTV21 | Việt Nam ký ức
 https://vmttv.dpdns.org/VTVGo/?sctv21
 #EXTINF:-1 tvg-id="sctv22hd" group-title="🇻🇳 | SCTV" tvg-logo="https://i.imgur.com/Nl80opD.png",SCTV22 | SSport 1
