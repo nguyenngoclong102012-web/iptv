@@ -435,19 +435,19 @@ https://freem3u.xyz/api/live/play.m3u8?vid=10007
 https://freem3u.xyz/api/live/play.m3u8?vid=213
 #EXTINF:-1 tvg-id="nhkworld" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/SfM6WM7.png",NHK World-Japan
 https://freem3u.xyz/api/live/play.m3u8?vid=106
-#EXTINF:-1 tvg-id="animal" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/KOEl5pp.png",Animal Planet
+#EXTINF:-1 tvg-id="animalhd" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/KOEl5pp.png",Animal Planet
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec6f072c7125377a9bc0ae61598095f4:1d5388e0781415ebcec9914f5ad75875
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
-#EXTINF:-1 tvg-id="discovery" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/xN36i7F.png",Discovery
+#EXTINF:-1 tvg-id="discoveryhd" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/xN36i7F.png",Discovery
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb4160ea553a321d899553e4e796fec2:bea5a07157e0c4d17b11ab399517f952
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
-#EXTINF:-1 tvg-id="discoveryasia" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/pB0Fo0y.png",Discovery Asia
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/pB0Fo0y.png",Discovery Asia
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -459,9 +459,9 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
-#EXTINF:-1 tvg-id="outdoor" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/UhQQPhY.png",Outdoor Channel
+#EXTINF:-1 tvg-id="outdoorhd" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/UhQQPhY.png",Outdoor Channel
 https://freem3u.xyz/api/live/play.m3u8?vid=216
-#EXTINF:-1 tvg-id="history" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/OLeFULn.png",History
+#EXTINF:-1 tvg-id="historyhd" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/OLeFULn.png",History
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
 #EXTINF:-1 tvg-id="dmax" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/THAWoQf.png",DMAX
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -489,7 +489,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9901
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6908629732639ada4814a6208296d9c:7ca9bf03623f77b5e2f16df0b53f274d
 https://s129135.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
-#EXTINF:-1 tvg-id="warnertv" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/PKjRYwD.png",Warner TV
+#EXTINF:-1 tvg-id="warnertvhd" group-title="🌏 | Quốc Tế" tvg-logo="https://i.imgur.com/PKjRYwD.png",Warner TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
