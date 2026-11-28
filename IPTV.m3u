@@ -54,9 +54,9 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:19:88:F9&stream=1312036&ext
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:19:88:F9&stream=1312037&extension=ts
 #EXTINF:-1 tvg-id="SkySportsTennis.uk" group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/33HTwDs.png",🇬🇧 | Sky Sports Tennis
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:19:88:F9&stream=1312026&extension=ts
-#EXTINF:-1 tvg-id="SkySportsU1.uk" group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/RvFOuEK.png",🇬🇧 | Sky Sports UHD 1
+#EXTINF:-1 tvg-id="SkySportsUHD1.uk" group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/RvFOuEK.png",🇬🇧 | Sky Sports UHD 1
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:19:88:F9&stream=1312005&extension=ts
-#EXTINF:-1 tvg-id="SkySportsU2.uk" group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/RvFOuEK.png",🇬🇧 | Sky Sports UHD 2
+#EXTINF:-1 tvg-id="SkySportsUHD2.uk" group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/RvFOuEK.png",🇬🇧 | Sky Sports UHD 2
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:19:88:F9&stream=1312006&extension=ts
 #EXTINF:-1 tvg-id="TNTSports1.uk" group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/IdYe3wd.png",🇬🇧 | TNT Sports 1
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:19:88:F9&stream=1174231&extension=ts
@@ -66,7 +66,7 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:19:88:F9&stream=1174232&ext
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:19:88:F9&stream=1174233&extension=ts
 #EXTINF:-1 tvg-id="TNTSports4.uk" group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/NoSgErI.png",🇬🇧 | TNT Sports 4
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:19:88:F9&stream=1174234&extension=ts
-#EXTINF:-1 tvg-id="TNTSportsUltimate.uk" group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/IxFs9jF.png",🇬🇧 | TNT Sports Ultimate UHD
+#EXTINF:-1 tvg-id="TNTSportsUltimate.uk" group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/IxFs9jF.png",🇬🇧 | TNT Sports Ultimate
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:19:88:F9&stream=1174213&extension=ts
 #-------------------🔴 | TV360 - Sự kiện trực tiếp-------------------#
 #EXTINF:-1 tvg-id="tv360plus1" group-title="🔴 | TV360 - Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/p9uXNyF.png",TV360+ 1
