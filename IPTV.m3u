@@ -1,9 +1,11 @@
 #EXTM3U url-tvg="https://epg.io.vn/epg.xml,https://www.open-epg.com/files/unitedkingdom.xml,https://www.open-epg.com/files/thailand.xml,https://www.open-epg.com/files/france.xml,https://www.open-epg.com/files/newzealand.xml"
 #-------------------⚽ | Thể thao Quốc Tế-------------------#
-#EXTINF:-1 tvg-id="Eurosport1.fr" group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/olQJgm7.png",🇪🇺 | Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport1.fr" group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/eaTVF1k.png",🇪🇺 | Eurosport 1
 https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.fr" group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/f56dHgR.png",🇪🇺 | Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport2.fr" group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/X78wx9T.png",🇪🇺 | Eurosport 2
 https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/uiZEetY.png",🇪🇺 | Eurosport 4K
+http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="MONOMAXSPORTS.th" group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/tCLrzsZ.png",🇹🇭 | MONOMAX Sports TV
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 #EXTINF:-1 tvg-id="SkySport1.nz" group-title="⚽ | Thể thao Quốc Tế" tvg-logo="https://i.imgur.com/ThJHEuN.png",🇳🇿 | Sky Sport 1
